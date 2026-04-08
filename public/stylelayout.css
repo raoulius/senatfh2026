@@ -116,7 +116,7 @@ nav {
   bottom: 0;
   left: 50%; /* Menengahkan garis bawah */
   transform: translateX(-50%); /* Menyempurnakan penempatan garis bawah */
-  background-color: #2b5c6b;
+  background-color: #4C376B;
   transition: all 0.3s ease;
 }
 
@@ -132,7 +132,7 @@ nav {
   bottom: 0;
   left: 50%;
   transform: translateX(-50%);
-  background-color: #2b5c6b;
+  background-color: #4C376B;
   z-index: 9999;
 }
 

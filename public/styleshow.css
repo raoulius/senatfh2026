@@ -30,8 +30,7 @@ body {
 }
 
 .news-title {
-    color: #2b5c6b;
-    color: #2b5c6b;
+    color: #432e6e;
     margin-bottom: 2rem;
     font-size: 3rem;
     font-weight: 700;
@@ -76,7 +75,7 @@ body {
 .return-link {
     display: inline-block;
     padding: 12px 20px;
-    background-color: #2b5c6b;
+    background-color: #432e6e;
     color: white;
     font-size: 1em;
     font-weight: 500;
@@ -112,7 +111,7 @@ h1 {
     margin-bottom: 16px;
 }
 .border-b-2 {
-    border-bottom: 2px solid #2B5C6B;
+    border-bottom: 2px solid #432e6e;
     margin-bottom: 16px;
 }
 .grid {
@@ -160,7 +159,7 @@ h1 {
     padding: 1rem 2rem;
     font-size: 1rem;
     color: #fff;
-    background: #2B5C6B;
+    background: #432e6e;
     border-radius: 5px;
     cursor: pointer;
     transition: all 0.3s ease; /* perbaiki typo '0.3sease' */

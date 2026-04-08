@@ -136,8 +136,7 @@ section .header-JD {
 }
 
 section .headerJD {
-  color: #2b5c6b;
-  color: #2b5c6b;
+  color: #432e6e;
   margin-bottom: 3rem;
   font-size: calc(3rem + 5px);
   font-weight: 700;

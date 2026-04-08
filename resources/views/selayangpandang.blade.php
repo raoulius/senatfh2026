@@ -6,7 +6,7 @@
     <div class="content">
       <span class="blur"></span>
       <span class="blur"></span>
-      <h1 style="color:#2B5C6B">LATAR BELAKANG</h1>
+      <h1 style="color:#4C376B">LATAR BELAKANG</h1>
 
       <p>
         Senat Mahasiswa Fakultas Hukum Universitas Diponegoro adalah salah satu lembaga atau organisasi kemahasiswaan tinggi di lingkup Fakultas Hukum

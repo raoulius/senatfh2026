@@ -51,14 +51,14 @@ body {
 }
 
 .container a {
-  color: #2b5c6b;
+  color: white;
   font-size: 13px;
   text-decoration: none;
   margin: 15px 0 10px;
 }
 
 .container button {
-  background-color: #2b5c6b;
+  background-color: #432e6e;
   color: #fff;
   font-size: 12px;
   padding: 10px 45px;
@@ -78,6 +78,9 @@ body {
 
 .container form {
   background: linear-gradient(135deg, #432e6e 0%, #2f7071 100%);
+  background-size: 200% 200%;
+  background-position: left;
+  
   display: flex;
   align-items: center;
   justify-content: center;
@@ -222,6 +225,8 @@ body {
 .toggle-right {
   right: 0;
   background: linear-gradient(135deg, #432e6e 0%, #2f7071 100%);
+  background-size: 200% 200%;
+  background-position: right;
 }
 
 .container.active .toggle-right {
