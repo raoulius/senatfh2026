@@ -36,7 +36,7 @@ body {
 .vertical_bar {
     width: 300px;
     z-index: 9999;
-    background: #01215A;
+    background: #432e6e;
     height: 100%;
     position: relative;
     overflow-y: auto; /* Menambahkan scroll vertical */
@@ -121,7 +121,7 @@ body {
 
 .main_container .top_bar {
     height: 60px;
-    background: #01215A;
+    background: #432e6e;
     padding: 15px 25px;
     display: flex;
     align-items: center;

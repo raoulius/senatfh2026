@@ -3,7 +3,7 @@
 @section('content')
 <link href="{{ asset("styleagenda.css") }}" rel="stylesheet">
 <section class="container7">
-    <h2 class="header">Buat Agenda Kerja Baru</h2>
+    <h2 class="header1">Buat Agenda Kerja Baru</h2>
     <form action="{{ route( auth()->user()->role->role_slug .'.agenda.store') }}" method="POST" enctype="multipart/form-data">
         @csrf
         <div class="form-group">

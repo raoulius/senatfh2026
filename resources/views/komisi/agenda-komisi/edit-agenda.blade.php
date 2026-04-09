@@ -3,7 +3,7 @@
 @section('content')
 <link href="{{ asset("styleagenda.css") }}" rel="stylesheet">
     <section class="container7">
-        <h2 class="header">Edit Agenda Kerja</h2>
+        <h2 class="header1">Edit Agenda Kerja</h2>
         <form action="{{ route( auth()->user()->role->role_slug .'.agenda.update', $agenda->id) }}" method="POST" enctype="multipart/form-data">
             @csrf
             @method('PUT')
@@ -22,9 +22,15 @@
             <div class="form-group">
                 <label for="file">Dokumen:</label>
                 @if($agenda->file)
-                    <p>File saat ini: <a href="{{ Storage::url($agenda->file) }}" target="_blank">Download</a></p>
-                    <input type="checkbox" name="hapus_file" id="hapus_file"> Hapus File
-                @else
+                    <p style="color:whitesmoke;">
+                    File saat ini: 
+                <a href="{{ Storage::url($agenda->file) }}" target="_blank" style="color:#3498db;">Download</a>
+            </p>
+
+    <label style="color:whitesmoke;">
+        <input type="checkbox" name="hapus_file" id="hapus_file"> Hapus File
+    </label>
+@else
                     <p>Tidak ada file yang diunggah.</p>
                 @endif
                 <input type="file" name="file" class="form-control-file input-form" id="file">

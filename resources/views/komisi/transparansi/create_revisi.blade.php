@@ -4,8 +4,8 @@
     <link href="{{ asset("styleagenda.css") }}" rel="stylesheet">
     <div class="container-revisi">
         <div class="header-revisi">
-            <h1>Buat Revisi Proposal</h1>
-            <p>Proposal: {{ $proposal->judul }}</p>
+            <h1 style="color:whitesmoke;">Buat Revisi Proposal</h1>
+            <p style="color:whitesmoke;">Proposal: {{ $proposal->judul }}</p>
         </div>
         
         <form action="{{ route(auth()->user()->role->role_slug . '.revisi.store', $proposal->id) }}" method="POST" enctype="multipart/form-data">

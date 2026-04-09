@@ -4,8 +4,8 @@
 <link href="{{ asset("styletransparansi.css") }}" rel="stylesheet">
     <div class="container">
         <div class="header-revisi">
-            <h1>Daftar Revisi Proposal</h1>
-            <h2>{{ $proposal->judul }}</h2>
+            <h1 style="color:#432e6e;">Daftar Revisi Proposal</h1>
+            <h2 style="color:#432e6e;">{{ $proposal->judul }}</h2>
         </div>
 
         <a href="{{ route(auth()->user()->role->role_slug . '.revisi.create', $proposal->id) }}" class="btn-revisi">Buat Revisi</a>
