@@ -11,7 +11,10 @@ class AspirasiAdminCtrl extends Controller
     public function index()
     {
         $aspirasis = Aspirasi::all();
-        return view('cms.aspirasi', compact('aspirasis'));
+        $statusOptions = Aspirasi::STATUSES;
+        $statusLabels = Aspirasi::STATUS_LABELS;
+
+        return view('cms.aspirasi', compact('aspirasis', 'statusOptions', 'statusLabels'));
     }
 
     public function update(Request $request, $id)
@@ -21,12 +24,14 @@ class AspirasiAdminCtrl extends Controller
         $request->validate([
             'is_actived' => 'required|boolean',
             'tipe_aspirasi_id' => 'required|integer',
+            'status' => 'required|in:' . implode(',', Aspirasi::STATUSES),
             'answer' => 'nullable|string',
         ]);
 
         $aspirasi->update([
             'is_actived' => $request->input('is_actived'),
             'tipe_aspirasi_id' => $request->input('tipe_aspirasi_id'),
+            'status' => $request->input('status'),
             'answer' => $request->input('answer'),
         ]);
 

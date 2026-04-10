@@ -262,8 +262,7 @@ footer .column > a:hover {
 
 .tracking-steps {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
   position: relative;
 }
 
@@ -273,6 +272,7 @@ footer .column > a:hover {
   align-items: center;
   position: relative;
   flex: 1;
+  overflow: visible;
 }
 
 .step-circle {
@@ -285,6 +285,7 @@ footer .column > a:hover {
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
+  flex-grow: 0;
   z-index: 2;
   position: relative;
 }
@@ -299,9 +300,9 @@ footer .column > a:hover {
 
 .step-line {
   position: absolute;
-  top: 16px;
-  left: 50%;
-  right: -50%;
+  top: 14px;
+  left: calc(50% + 16px);
+  right: calc(-50% + 16px);
   height: 3px;
   background: #2d5f5d;
   z-index: 1;
@@ -326,6 +327,37 @@ footer .column > a:hover {
 .step-status {
   color: #2d5f5d;
   font-size: 12px;
+}
+
+.tracking-step.is-pending .step-circle {
+  background: transparent;
+  border-color: #87a7a7;
+}
+
+.tracking-step.is-pending .step-circle svg {
+  display: none;
+}
+
+.tracking-step.is-pending .step-line {
+  background: #87a7a7;
+}
+
+.tracking-step.is-pending .step-status {
+  color: #5f7272;
+}
+
+.tracking-step.is-current .step-circle {
+  background: #f4b43f;
+  border-color: #f4b43f;
+}
+
+.tracking-step.is-current .step-line {
+  background: #87a7a7;
+}
+
+.tracking-step.is-current .step-status {
+  color: #8c5a00;
+  font-weight: 600;
 }
 
 @media (width < 1000px) {
