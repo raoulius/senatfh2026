@@ -7,7 +7,7 @@
     <div class="container6">
       <div class="slide">
 
-        <div class="item" style="background-image: url(/img/foto-grup/Komisi-2.jpg);">
+        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/komisi-ii.jpg);">
           <div class="content">
             <div class="name">KOMISI II</div>
             <div class="des">Komisi II adalah komisi yang menaungi terkait Bidang Minat, Bakat, Kaderisasi dan Kerohanian</div>
@@ -16,7 +16,7 @@
             </a>
           </div>
         </div>
-        <div class="item" style="background-image: url(/img/foto-grup/Komisi-2.jpg);">
+        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/komisi-ii.jpg);">
           <div class="content">
             <div class="name">KOMISI II</div>
             <div class="des">Komisi II adalah komisi yang menaungi terkait Bidang Minat, Bakat, Kaderisasi dan Kerohanian</div>
@@ -374,48 +374,23 @@
     <div class="anggota-4">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/komisi-2/ketua/Kms M Fadhlurrohman Fayyadh.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-ii/Muhammad Arkan Ramadhan_Ketua Komisi II_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Kms. M. Fadhlurrohman Fayyadh</h2>
+          <h2>Muhammad Arkan Ramadhan</h2>
           <p class="deskripsi">
-            Ketua Komisi II</br>SM FH UNDIP 2025
+            Ketua Komisi II</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/komisi-2/senator/Dayinda Shofia Nabila.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-ii/Angela Haruko Purnomo Siwi_Senator Anggota_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Dayinta Shofia Nabila</h2>
-          <h2>Dayinta Shofia Nabila</h2>
+          <h2>Angela Haruko Purnomo Siwi</h2>
           <p class="deskripsi">
-            Senator Anggota</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class="anggota-4-1">
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/komisi-2/senator/Gading Kain TImoer.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Gading Kain Timoer</h2>
-          <p class="deskripsi">
-            Senator Anggota</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/komisi-2/senator/Laksita Satyaning Kuncoro.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Laksita Satyaning Kuncoro</h2>
-          <p class="deskripsi">
-            Senator Anggota</br>SM FH UNDIP 2025
+            Senator Anggota</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
@@ -423,47 +398,23 @@
     <div class="anggota-4-1">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/komisi-2/staff/Adinda Yasmin Ariyani.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-ii/Dungo Robintang Immanuel Situmeang_Senator Anggota_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Adinda Yasmin Ariyani</h2>
+          <h2>Dungo Robintang Immanuel Situmeang</h2>
           <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
+            Senator Anggota</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/komisi-2/staff/Irene Alfrianti.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-ii/Muhammad Syifa Anshori_Senator Anggota_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Irene Alfrianti</h2>
+          <h2>Muhammad Syifa Anshori</h2>
           <p class="deskripsi">
-          Staff Ahli</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class="anggota-4-1">
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/komisi-2/staff/Mochamad Luthfi Bakri.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Mochamad Luthfi Bakri</h2>
-          <p class="deskripsi">
-          Staff Ahli</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/komisi-2/staff/Muhammad Hisyam Aimanuddin.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Muhammad Hisyam Aimanuddin</h2>
-          <p class="deskripsi">
-          Staff Ahli</br>SM FH UNDIP 2025
+            Senator Anggota</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
@@ -471,23 +422,23 @@
     <div class="anggota-4-1">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/komisi-2/staff/Naelah Zahra Adelia.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-ii/Adinda Rachma Assyifa Widiatmoko_Staf Ahli_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Naelah Zahra Adelia</h2>
+          <h2>Adinda Rachma Assyifa Widiatmoko</h2>
           <p class="deskripsi">
-          Staff Ahli</br>SM FH UNDIP 2025
+            Staff Ahli</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/komisi-2/staff/Octafiani Ramadhani.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-ii/Anissa Rahma_Staf Ahli_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Octafiani Ramadhani</h2>
+          <h2>Anissa Rahma</h2>
           <p class="deskripsi">
-          Staff Ahli</br>SM FH UNDIP 2025
+            Staff Ahli</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
@@ -495,23 +446,84 @@
     <div class="anggota-4-1">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/komisi-2/staff/Tegar Setiawan.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-ii/Fachri Ahmad Saihan_Staf Ahli_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Tegar Setiawan</h2>
+          <h2>Fachri Ahmad Saihan</h2>
           <p class="deskripsi">
-          Staff Ahli</br>SM FH UNDIP 2025
+            Staff Ahli</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/komisi-2/staff/Zulfa Afifa Aprilia.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-ii/Kathryne De Emanuelle_Staf Ahli_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Zulfa Afifa Aprilia</h2>
+          <h2>Kathryne De Emanuelle</h2>
           <p class="deskripsi">
-          Staff Ahli</br>SM FH UNDIP 2025
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="anggota-4-1">
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-ii/Mohamed Farhan Ramadhan Al Kamal_Staf Ahli_noBG.png" />
+        </div>
+        <div class="content1">
+          <h2>Mohamed Farhan Ramadhan Al Kamal</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-ii/Nabila Aulia Dewi_ Staf Ahli_noBG.png" />
+        </div>
+        <div class="content1">
+          <h2>Nabila Aulia Dewi</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="anggota-4-1">
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-ii/Nazla Aurelya Jasmine_ Staf Ahli_noBG.png" />
+        </div>
+        <div class="content1">
+          <h2>Nazla Aurelya Jasmine</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-ii/Sya’i Iqma Sabrina_Staf Ahli_noBG.png" />
+        </div>
+        <div class="content1">
+          <h2>Sya’i Iqma Sabrina</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="anggota-4-2">
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-ii/Zuleyka Brigita Pakpahan_Staf Ahli_noBG.png" />
+        </div>
+        <div class="content1">
+          <h2>Zuleyka Brigita Pakpahan</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>

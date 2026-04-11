@@ -1073,6 +1073,8 @@ h4 {
 
 .img-coba {
     width: 100%;
+    aspect-ratio: 4/5;
+    object-fit: cover;
     border-radius: 10px;
     box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.5);
 }

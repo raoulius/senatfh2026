@@ -106,55 +106,60 @@
         <div class="custom-slides">
           <div class="custom-slide">
             <div class="custom-image" id="makna-logoparlemen">
-              <img src="img/kabinetridho.png" />
+              <img src="img/makna-logo/logo-senatfh2026.png" />
             </div>
             <h1 class="custom-header1">MAKNA LOGO</h1>
             <p class="custom-sub1-header">
-              Gemilang Menurut KBBI berarti bercahaya atau kiasan dari keadaan baik sekali. SM FH Undip 2024 telah memberikan kinerja yang baik dan luar biasa untuk itu Gemilang disini berarti menghadirkan eksistensi SM FH Undip yang mampu
-              memaksimalkan sinar kebermanfaatan melalui pelaknsaaan fungsi- fungsi yang dimiliki. Sebagai Ormawa Publik di FH Undip kondisi ini akan melambangkan titik Optimal FH Undip dalam memberi makna dan manfaat untuk iklim Ormawa yang
-              ada di FH Undip.
-              <br>Pemrakarsa menurut KBBI berarti pelopor atau orang yang mempelopori. Saya memahami dengan baik bahwa SM FH Undip 2024 telah bersikap aktif dalam menjalankan Fungsi Legislasi. Fungsi Anggaran. Fungsi Pengawasan, dan Fungsi
-              Aspirasi yang memberi kebermanfaatan untuk Mahasiswa FH Undip. Harapan untuk meningkatkan kinerja SM FH Undip tidak hanya sebagai Ormawa Publik di FH Undip tapi juga mampu menjadi pelopor dan prakarsa yang mengawal kebaikan dan
-              kebermanfaatan utuk FH Undip dan Undip melalui eksistensinya.
-              </br>
+              ‘Adhigana’ berasal dari kata Sanskerta ‘adhi’ (unggul, tinggi, melampaui) dan ‘gana’ (kelompok, himpunan). Secara konseptual, ‘Adhigana’ dimaknai sebagai sekumpulan individu unggul yang memiliki ketangguhan, daya juang tinggi,
+              dan semangat pantang menyerah, yang bekerja secara kolektif untuk mencapai hasil terbaik serta siap menghadapi dan bertanggung jawab atas setiap konsekuensi dari perjuangannya.
+              <br><br>
+              Nama parlemen dari SM FH Undip Tahun 2026, yakni Cakra Adhigana membawa makna bahwa SM FH Undip Tahun 2026 diharapkan dapat menjadi pusat dari sekelompok individu yang tangguh dengan daya juang tinggi, disiplin, pantang
+              menyerah, dan sinergis untuk mencapai tujuan bersama secara optimal. Setiap anggota tidak berdiri sendiri, melainkan saling beririsan, saling menguatkan, dan bertanggung jawab antara satu sama lain dalam menjalankan fungsi,
+              peran, serta tanggung jawabnya selama berdinamika di SM FH Undip.
             </p>
           </div>
           <div class="custom-slide">
             <div class="custom-image">
-              <img src="img/kepalantangan.png" />
+              <img src="img/makna-logo/helm-prajurit.png" />
             </div>
-            <h1 class="custom-header1">KEPALAN TANGAN</h1>
+            <h1 class="custom-header1">HELM PRAJURIT ROMAWI</h1>
             <p class="custom-sub1-header">
-              Tangan mengepal menandakan bahwa SM FH Undip 2025 memiliki tekad yang kuat sebagai pelopor pemberi kebermanfaatan melalui pelaksanaan tugas, fungsi, dan wewenang yang dimiliki terhadap Mahasiswa FH Undip.
+              Helm Prajurit Romawi menyimbolkan ketangguhan yang dimiliki oleh sekelompok individu unggul (dalam hal ini ialah fungsionaris) di dalam tubuh SM FH Undip Tahun 2026. nilai profesional, dan nilai harmonis.
             </p>
           </div>
           <div class="custom-slide">
             <div class="custom-image">
-              <img src="img/arusombak.png" />
+              <img src="img/makna-logo/lima-kelopak-ungu.png" />
             </div>
-            <h1 class="custom-header1">ARUS OMBAK</h1>
+            <h1 class="custom-header1">LIMA KELOPAK UNGU</h1>
             <p class="custom-sub1-header">
-              1 Arus Ombak yang menjadi awal mula dari lapisan ombak melambangkan 1 budaya yang ada dalam SM FH Undip 2025 yakni budaya inisiatif sebagai pendukung 4 nilai fundamental SM FH Undip 2025.
+              Lima kelopak berwarna ungu menyimbolkan lima misi yang hendak dibawakan oleh SM FH Undip Tahun 2026. </p>
+          </div>
+          <div class="custom-slide">
+            <div class="custom-image">
+              <img src="img/makna-logo/lima-kelopak-biru.png" />
+            </div>
+            <h1 class="custom-header1">LIMA KELOPAK BIRU</h1>
+            <p class="custom-sub1-header">
+              Lima kelopak berwarna biru tosca menyimbolkan lima yang dianut dalam SM FH Undip Tahun 2026, yakni nilai proaktif, nilai kritis, nilai transparan.
             </p>
           </div>
           <div class="custom-slide">
             <div class="custom-image">
-              <img src="img/lapisanombak.png" />
+              <img src="img/makna-logo/lingkaran-luar.png" />
             </div>
-            <h1 class="custom-header1">LAPISAN OMBAK</h1>
+            <h1 class="custom-header1">LINGKARAN LAPISAN PERTAMA</h1>
             <p class="custom-sub1-header">
-              4 Lapisan Ombak mempresentasikan penerapan 4 nilai SM FH Undip 2025 yakni Nilai Akuntabel, Nilai Profesional, Nilai proaktif, dan Nilai Kolaboratif yang ditanamkan oleh seluruh fungsionaris dalam menjalankan tugas, fungsi, dan
-              wewenang.
+              Satu lingkaran emas di lapisan pertama menyimbolkan visi yang hendak dibawakan oleh SM FH Undip Tahun 2026.
             </p>
           </div>
           <div class="custom-slide">
             <div class="custom-image">
-              <img src="img/lingkaranemas.png" />
+              <img src="img/makna-logo/lingkaran-dalam.png" />
             </div>
-            <h1 class="custom-header1">LINGKARAN EMAS</h1>
+            <h1 class="custom-header1">DUA LINGKARAN EMAS</h1>
             <p class="custom-sub1-header">
-              Lingkaran Emas melambangkan kualitas kinerja SM FH Undip yang gemilang dalam memberi keberdampakan yang baik pada mahasiswa secara terus menerus.
-            </p>
+              Dua lingkaran berwarna emas di lapisan kedua menyimbolkan dua budaya yang hendak dibawakan dalam SM FH Undip Tahun 2026, yakni budaya inisiatif dan budaya kekeluargaan. </p>
           </div>
         </div>
       </div>
@@ -171,21 +176,33 @@
         <div class="warna"></div>
         <div class="content">
           <h4>EMAS</h4>
-          <h5>Melambangkan nilai kewibawaan dan Kebijaksanaan yang dibawakan oleh SM FH Undip Tahun 2024</h5>
+          <h5>Warna emas melambangkan kejayaan dan kesuksesan. Hal tersebut kebijakan di FH Undip. membawa harapan agar setiap langkah yang diambil oleh SM FH Undip Tahun 2026 dapat membuahkan kejayaan dan kesuksesan bagi seluruh fungsionaris
+            SM FH Undip, seluruh mahasiswa FH Undip, dan para pemangku.</h5>
         </div>
       </div>
-      <div class="card1">
+      <div class="card">
         <div class="warna1"></div>
         <div class="content">
           <h4>BIRU</h4>
-          <h5>Melambangkan arti Humanisme yang digaungkan oleh SM FH Undip Tahun 2024</h5>
+          <h5>Warna biru tosca melambangkan inovasi dan optimisme. Hal tersebut membawa harapan agar setiap fungsionaris SM FH Undip Tahun 2026 mampu mengambil langkah yang inovatif bersamaan dengan sikap optimis–memiliki keyakinan yang besar
+            bahwa langkah yang diambil dapat terwujud. </h5>
         </div>
       </div>
-      <div class="card2">
+      <div class="card">
         <div class="warna2"></div>
         <div class="content">
           <h4>PUTIH</h4>
-          <h5>Melambangkan Budaya Kebermanfaatan yang dapat diberikan oleh SM FH Undip Tahun 2024</h5>
+          <h5>Warna putih melambangkan ketulusan dan kejujuran. Hal tersebut membawa harapan agar seluruh fungsionaris SM FH Undip Tahun 2026 memiliki niat baik untuk selalu hadir melayani mahasiswa dengan mengedepankan ketulusan dan
+            kejujuran.</h5>
+        </div>
+      </div>
+      <div class="card">
+        <div class="warna3"></div>
+        <div class="content">
+          <h4>UNGU</h4>
+          <h5>Warna ungu melambangkan kebijaksanaan dan kemuliaan. Hal tersebut membawa harapan agar seluruh fungsionaris SM FH Undip Tahun 2026 dapat mengutamakan sikap bijaksana dalam berperilaku sehingga segala bentuk langkah yang diambil
+            mampu menebar kemuliaan bagi sekitarnya–yakni mahasiswa itu sendiri.
+          </h5>
         </div>
       </div>
     </div>
@@ -196,70 +213,70 @@
     <h1 class="j-header">ALAT KELENGKAPAN</h1>
     <div class="slider-container">
       <div class="slider">
-        <div class="slide-item" style="background-image: url(/img/pimpinan-inti/foto-grup/IMG_3546.JPG);">
+        <div class="slide-item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/pimpinan-inti.jpg);">
           <div class="content9">
             <div class="name">PIMPINAN INTI</div>
             <div class="des">Pimpinan inti adalah Pimpinan struktural tertinggi di Senat Mahasiswa yang terdiri atas Ketua, Wakil Ketua Bidang Anggaran dan pengawasan, Wakil Ketua Bidang Aspirasi dan Legislasi, Sekretaris Jenderal</div>
             <a href="{{ url("/pimpinaninti") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="slide-item" style="background-image: url(/img/foto-grup/Komisi-1.jpg);">
+        <div class="slide-item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/komisi-i.jpg);">
           <div class="content9">
             <div class="name">KOMISI I</div>
             <div class="des">Komisi I adalah komisi yang menaungi terkait dengan Bidang Pengembangan dan Keilmuan</div>
             <a href="{{ url("/tentang-komisi-i") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="slide-item" style="background-image: url(/img/foto-grup/Komisi-2.jpg);">
+        <div class="slide-item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/komisi-ii.jpg);">
           <div class="content9">
             <div class="name">KOMISI II</div>
             <div class="des">Komisi II adalah komisi yang menaungi terkait Bidang Minat, Bakat, Kaderisasi dan Kerohanian</div>
             <a href="{{ url("/tentang-komisi-ii") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="slide-item" style="background-image: url(/img/foto-grup/Komisi-3.jpg);">
+        <div class="slide-item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/komisi-iii.jpg);">
           <div class="content9">
             <div class="name">KOMISI III</div>
             <div class="des">Komisi III adalah komisi yang menangani terkait Bidang Hukum dan Hubungan Publik</div>
             <a href="{{ url("/tentang-komisi-iii") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="slide-item" style="background-image: url(/img/foto-grup/Komisi-4.jpg);">
+        <div class="slide-item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/komisi-iv.jpg);">
           <div class="content9">
             <div class="name">KOMISI IV</div>
             <div class="des">Komisi IV adalah komisi yang menaungi terkait bidang Advokasi, Akademik, Sarana, dan Prasarana</div>
             <a href="{{ url("/tentang-komisi-iv") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="slide-item" style="background-image: url(/img/foto-grup/Badan-Legislasi.jpg);">
+        <div class="slide-item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/badan-legislasi.jpg);">
           <div class="content9">
             <div class="name">BADAN LEGISLASI</div>
             <div class="des">Badan Legislasi bertanggung jawab atas proses pembentukan peraturan SM FH Undip.</div>
             <a href="{{ url("/tentang-badan-legislasi") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="slide-item" style="background-image: url(/img/foto-grup/Badan-Kehormatan.jpg);">
+        <div class="slide-item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/badan-kehormatan.jpg);">
           <div class="content9">
             <div class="name">BADAN KEHORMATAN</div>
             <div class="des">Menjaga serta menegakkan kehormatan dan keluhuran martabat SM FH Undip.</div>
             <a href="{{ url("/tentang-badan-kehormatan") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="slide-item" style="background-image: url(/img/foto-grup/Badan-Anggaran.jpg);">
+        <div class="slide-item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/badan-anggaran.jpg);">
           <div class="content9">
             <div class="name">BADAN ANGGARAN</div>
             <div class="des">Bertanggung jawab atas pelaksanaan fungsi anggaran SM FH Undip.</div>
             <a href="{{ url("/tentang-badan-anggaran") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="slide-item" style="background-image: url(/img/foto-grup/BURT.jpg);">
+        <div class="slide-item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/burt.jpg);">
           <div class="content9">
             <div class="name">BURT</div>
             <div class="des">Membantu kesekretariatan dan kebendaharaan Sekretaris Jenderal.</div>
             <a href="{{ url("/tentang-burt") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="slide-item" style="background-image: url(/img/foto-grup/BKSAP.jpg);">
+        <div class="slide-item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/BKSAP.jpg);">
           <div class="content9">
             <div class="name">BKSAP</div>
             <div class="des">Badan Kerja Sama Antar Parlemen terdiri dari Biro humas, Biro infografis, Biro Videografis</div>
