@@ -7,7 +7,7 @@
     <div class="container6">
       <div class="slide">
 
-        <div class="item" style="background-image: url(/img/foto-grup/Komisi-4.jpg);">
+        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/komisi-iv.jpg);">
           <div class="content">
             <div class="name">KOMISI IV</div>
             <div class="des">Komisi IV adalah komisi yang menaungi terkait Bidang Advokasi, Akademik, Sarana, dan Prasarana. Komisi empat berkoordinasi dan bertanggung jawab kepada mitra kerjanya, yaitu : BEM Bidang KAPRO dan ADVOKESMA
@@ -17,7 +17,7 @@
             </a>
           </div>
         </div>
-        <div class="item" style="background-image: url(/img/foto-grup/Komisi-4.jpg);">
+        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/komisi-iv.jpg);">
           <div class="content">
             <div class="name">KOMISI IV</div>
             <div class="des">Komisi IV adalah komisi yang menaungi terkait Bidang Advokasi, Akademik, Sarana, dan Prasarana. Komisi empat berkoordinasi dan bertanggung jawab kepada mitra kerjanya, yaitu : BEM Bidang KAPRO dan ADVOKESMA
@@ -35,22 +35,22 @@
     <div class="modern-wewenang">
       <div class="modern-card">
         <div class="content">
-          <h4>Melaksanakan rapat koordinasi dengan mitra kerja dalam Bidang Advokasi,  Akademik, Sarana, dan Prasarana</h4>
+          <h4>Melaksanakan rapat koordinasi dengan mitra kerja dalam Bidang Advokasi, Akademik, Sarana, dan Prasarana</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Menampung aspirasi dari mitra kerja dalam Bidang Advokasi,  Akademik, Sarana, dan Prasarana serta melakukan advokasi kepada pihak terkait</h4>
+          <h4>Menampung aspirasi dari mitra kerja dalam Bidang Advokasi, Akademik, Sarana, dan Prasarana serta melakukan advokasi kepada pihak terkait</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Melaksanakan fungsi pengawasan dan fungsi legislasi terhadap mitra kerja dalam Bidang Advokasi,  Akademik, Sarana, dan Prasarana</h4>
+          <h4>Melaksanakan fungsi pengawasan dan fungsi legislasi terhadap mitra kerja dalam Bidang Advokasi, Akademik, Sarana, dan Prasarana</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Menjembatani hubungan mitra kerja dalam Bidang Advokasi,  Akademik, Sarana, dan Prasarana dengan Dekanat</h4>
+          <h4>Menjembatani hubungan mitra kerja dalam Bidang Advokasi, Akademik, Sarana, dan Prasarana dengan Dekanat</h4>
         </div>
       </div>
       <div class="modern-card">
@@ -172,143 +172,180 @@
     <div class="anggota-4">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/komisi-4/ketua/Andre Ikdan.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Andre Ikdan</h2>
-          <p class="deskripsi">
-            Ketua Komisi IV</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/komisi-4/senator/Aaliyah Davalynn Setiawan.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Aaliyah Davalynn Setiawan</h2>
-          <p class="deskripsi">
-            Senator Anggota</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class="anggota-4-1">
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/komisi-4/senator/Faranisa Syifa Aulia Wibowo.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Faranisa Syifa Aulia Wibowo</h2>
-          <p class="deskripsi">
-            Senator Anggota</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/komisi-4/senator/Muhammad Yusuf Atabik Azis.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Muhammad Yusuf Atabik Azis</h2>
-          <p class="deskripsi">
-            Senator Anggota</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class="anggota-4-1">
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/komisi-4/staff/Aisha Khanuna Harahap.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Aisha Khanuna Harahap</h2>
-          <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/komisi-4/staff/Azzahra Jingga Naila Fathimah.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Azzahra Jingga Naila</h2>
-          <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class="anggota-4-1">
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/komisi-4/staff/Djalu Giri Sutalaksono.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Djalu Giri Sutalaksono</h2>
-          <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/komisi-4/staff/Mohamad Rafi Sholehuddin.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Mohamad Rafi Sholehuddin</h2>
-          <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class="anggota-4-1">
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/komisi-4/staff/Muhammad Rizky Sugiarto.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Muhammad Rizky Sugiarto</h2>
-          <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/komisi-4/staff/Nada Najwa Belvana.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Nada Najwa Belvana</h2>
-          <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class="anggota-4-1">
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/komisi-4/staff/Nathania Kharisma Putri.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-iv/Nathania Kharisma Putri_Ketua Komisi IV_noBG.png" />
         </div>
         <div class="content1">
           <h2>Nathania Kharisma Putri</h2>
           <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
+            Ketua Komisi IV</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/komisi-4/staff/Zalva Khairunnisa Jaya.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-iv/Naufal Al Fayyadh_Senator Anggota_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Zalva Khairunnisa Jaya</h2>
+          <h2>Naufal Al Fayyadh</h2>
           <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
+            Senator Anggota</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="anggota-4-1">
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-iv/Nesa Safitri Zahra_Senator Anggota.png" />
+        </div>
+        <div class="content1">
+          <h2>Nesa Safitri Zahra</h2>
+          <p class="deskripsi">
+            Senator Anggota</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-iv/Ridho Athif Antariksa_Senator Anggota_noBG.png" />
+        </div>
+        <div class="content1">
+          <h2>Ridho Athif Antariksa</h2>
+          <p class="deskripsi">
+            Senator Anggota</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="anggota-4-1">
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-iv/Salsabeila Raisa Kamila_Senator Anggota_noBG.png" />
+        </div>
+        <div class="content1">
+          <h2>Salsabeila Raisa Kamila</h2>
+          <p class="deskripsi">
+            Senator Anggota</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-iv/Adinda Karunia Putri_Staf Ahli_noBG.png" />
+        </div>
+        <div class="content1">
+          <h2>Adinda Karunia Putri</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="anggota-4-1">
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-iv/Aqila Akmalia_Staf Ahli_noBG.png" />
+        </div>
+        <div class="content1">
+          <h2>Aqila Akmalia</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-iv/Billy Alfarelo Ashar Nugroho_Staf Ahli_no BG.png" />
+        </div>
+        <div class="content1">
+          <h2>Billy Alfarelo Ashar Nugroho</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="anggota-4-1">
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-iv/Dwi Lian Arta Nugraha_Staf Ahli_no BG.png" />
+        </div>
+        <div class="content1">
+          <h2>Dwi Lian Arta Nugraha</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-iv/Fiona Kartika Wirawan_Staf Ahli_noBG.png" />
+        </div>
+        <div class="content1">
+          <h2>Fiona Kartika Wirawan</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="anggota-4-1">
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-iv/Khansa_ Yovita Noviyana_Staf Ahli_noBG.png" />
+        </div>
+        <div class="content1">
+          <h2>Khansa Yovita Noviyana</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-iv/Kinar Nayla Maury Agiztha_Staf Ahli_noBG.png" />
+        </div>
+        <div class="content1">
+          <h2>Kinar Nayla Maury Agiztha</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="anggota-4-1">
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-iv/Nathanael Almand Lembong_Staf Ahli_noBG.png" />
+        </div>
+        <div class="content1">
+          <h2>Nathanael Almand Lembong</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-iv/Steveen Sari Gabriel Situmorang_Staf Ahli_noBG.png" />
+        </div>
+        <div class="content1">
+          <h2>Steveen Sari Gabriel Situmorang</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="anggota-4-2">
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-iv/Sultan Amanullah Madjid_Staf Ahli_noBG.png" />
+        </div>
+        <div class="content1">
+          <h2>Sultan Amanullah Madjid</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>

@@ -7,7 +7,7 @@
     <div class="container6">
       <div class="slide">
 
-        <div class="item" style="background-image: url(/img/foto-grup/BURT.jpg);">
+        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/burt.jpg);">
           <div class="content">
             <div class="name">BURT</div>
             <div class="des">Badan Urusan Rumah Tangga</div>
@@ -16,7 +16,7 @@
             </a>
           </div>
         </div>
-        <div class="item" style="background-image: url(/img/foto-grup/BURT.jpg);">
+        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/burt.jpg);">
           <div class="content">
             <div class="name">BURT</div>
             <div class="des">Badan Urusan Rumah Tangga</div>
@@ -106,23 +106,23 @@
     <div class="anggota-4">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/burt/sekjen/Alya Safira.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/burt/Apple Aaliyya Putri Hidayat_Staff Ahli_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Alya Safira</h2>
+          <h2>Apple Aaliyya Putri Hidayat</h2>
           <p class="deskripsi">
-            Sekertaris Jendral</br>SM FH UNDIP 2025
+            Staff Ahli</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/burt/staff/Amalia Adi Prameswari.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/burt/Elizabeth Indah Siboro_Staff Ahli_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Amalia Adi Prameswari</h2>
+          <h2>Elizabeth Indah Siboro</h2>
           <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
+            Staff Ahli</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
@@ -130,23 +130,23 @@
     <div class="anggota-4-1">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/burt/staff/Ayalla Handi Cahaya Salsabila.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/burt/Nafiah_Staff Ahli_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Ayalla Handi Cahaya Salsabila</h2>
+          <h2>Nafiah</h2>
           <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
+            Staff Ahli</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/burt/staff/Fathiyya Yasarah Az-Zahra.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/burt/Naurah Hasna Dwi Suseno_Staff Ahli_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Fathiyya Yasarah Az-Zahra</h2>
+          <h2>Naurah Hasna Dwi Suseno</h2>
           <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
+            Staff Ahli</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
@@ -154,12 +154,12 @@
     <div class="anggota-4-2">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/burt/staff/Nabila Maharani Putri Sibali.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/burt/Rini Wahyu Amiarti_Staff Ahli_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Nabila Maharani Putri Sibali</h2>
+          <h2>Rini Wahyu Amiarti</h2>
           <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
+            Staff Ahli</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>

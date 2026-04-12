@@ -7,7 +7,7 @@
     <div class="container6">
       <div class="slide">
 
-        <div class="item" style="background-image: url(/img/foto-grup/Badan-Legislasi.jpg);">
+        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/badan-legislasi.jpg);">
           <div class="content">
             <div class="name">Badan Legislasi</div>
             <div class="des">Badan legislasi merupakan salah satu alat kelengkapan dari 4 badan yang berada dalam SM SM FH UNDIP 2025. Senator anggota badan legislasi mewakili masing-masing komisi terkait guna menciptakan tata kelola
@@ -17,7 +17,7 @@
             </a>
           </div>
         </div>
-        <div class="item" style="background-image: url(/img/foto-grup/Badan-Legislasi.jpg);">
+        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/badan-legislasi.jpg);">
           <div class="content">
             <div class="name">Badan Legislasi</div>
             <div class="des">Badan legislasi merupakan salah satu alat kelengkapan dari 4 badan yang berada dalam SM SM FH UNDIP 2025. Senator anggota badan legislasi mewakili masing-masing komisi terkait guna menciptakan tata kelola
@@ -116,47 +116,23 @@
     <div class="anggota-4">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/badan-legislasi/ketua/Amanda  Nadhiyatus Shalikhah.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-legislasi/Dina Safira Khairina_Ketua Badan_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Amanda Nadhiyatus Shalikhah</h2>
+          <h2>Dina Safira Khairina</h2>
           <p class="deskripsi">
-            Ketua Badan Legislasi</br>SM FH UNDIP 2025
+            Ketua Badan Legislasi</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/badan-legislasi/senator/Gading Kain TImoer.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-legislasi/Faqih Nuris Shiba_Senator Anggota_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Gading Kain Timoer</h2>
+          <h2>Faqih Nuris Shiba</h2>
           <p class="deskripsi">
-            Senator Anggota</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class="anggota-4-1">
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/badan-legislasi/senator/Gola Arpanji Cahyono.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Gola Arpanji Cahyono</h2>
-          <p class="deskripsi">
-            Senator Anggota</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/badan-legislasi/senator/Helena Puruhita Saraswati.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Helena Puruhita Saraswati</h2>
-          <p class="deskripsi">
-            Senator Anggota</br>SM FH UNDIP 2025
+            Senator Anggota</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
@@ -164,47 +140,23 @@
     <div class="anggota-4-1">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/badan-legislasi/staff/Ardhi Ardhana.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-legislasi/Muhammad Syifa Anshori_Senator Anggota_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Ardhi Ardhana</h2>
+          <h2>Muhammad Syifa Anshori</h2>
           <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
+            Senator Anggota</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/badan-legislasi/staff/Enggar Hadi Massardi.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-legislasi/Nathania Kharisma Putri_Senator Anggota_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Enggar Hadi Massardi</h2>
+          <h2>Nathania Kharisma Putri</h2>
           <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class="anggota-4-1">
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/badan-legislasi/staff/Eva Farida.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Eva Farida</h2>
-          <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/badan-legislasi/staff/Kezia Natalia Simamora.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Kezia Natalia Simamora</h2>
-          <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
+            Senator Anggota</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
@@ -212,36 +164,119 @@
     <div class="anggota-4-1">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/badan-legislasi/staff/Laksana Mutiara Sandy.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-legislasi/Ronaldo Jogi H. Simamora_Senator Anggota_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Laksana Mutiara Sandy</h2>
+          <h2>Ronaldo Jogi H. Simamora</h2>
           <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
+            Senator Anggota</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/badan-legislasi/staff/Ristianti Simaptupang.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-legislasi/Ronaldo Rumapea_Senator Anggota_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Ristianti Simatupang</h2>
+          <h2>Ronaldo Rumapea</h2>
           <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
+            Senator Anggota</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
     </div>
-    <div class="anggota-4-2">
+    <div class="anggota-4-1">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/badan-legislasi/staff/Roikhanatul Izza Tamawwulan.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-legislasi/Aditya Agustian Pratama_Staf Ahli_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Roikhanatul Izza Tamawwulan</h2>
+          <h2>Aditya Agustian Pratama</h2>
           <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-legislasi/Azkiatul Maulina Najha_Staf Ahli_noBG.png" />
+        </div>
+        <div class="content1">
+          <h2>Azkiatul Maulina Najha</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="anggota-4-1">
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-legislasi/Brian Aditya_Staf Ahli_noBG.png" />
+        </div>
+        <div class="content1">
+          <h2>Brian Aditya</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-legislasi/Jason Nehemiah Pardamean Sitorus_Staf Ahli_noBG.png" />
+        </div>
+        <div class="content1">
+          <h2>Jason Nehemiah Pardamean Sitorus</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="anggota-4-1">
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-legislasi/Khana Fitria_Staf Ahli_noBG.png" />
+        </div>
+        <div class="content1">
+          <h2>Khana Fitria</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-legislasi/Muharramah Atthahirah Amri_Staf Ahli_noBG.png" />
+        </div>
+        <div class="content1">
+          <h2>Muharramah Atthahirah Amri</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="anggota-4-1">
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-legislasi/Rahayu Setyo Wening_Staf Ahli_noBG.png" />
+        </div>
+        <div class="content1">
+          <h2>Rahayu Setyo Wening</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-legislasi/Syakhira Babelynia Satwika_Staf Ahli_noBG.png" />
+        </div>
+        <div class="content1">
+          <h2>Syakhira Babelynia Satwika</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>

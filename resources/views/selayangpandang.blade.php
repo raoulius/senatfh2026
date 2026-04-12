@@ -276,7 +276,7 @@
             <a href="{{ url("/tentang-burt") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
-        <div class="slide-item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/BKSAP.jpg);">
+        <div class="slide-item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/bksap.jpg);">
           <div class="content9">
             <div class="name">BKSAP</div>
             <div class="des">Badan Kerja Sama Antar Parlemen terdiri dari Biro humas, Biro infografis, Biro Videografis</div>

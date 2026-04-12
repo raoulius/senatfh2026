@@ -7,7 +7,7 @@
     <div class="container6">
       <div class="slide">
 
-        <div class="item" style="background-image: url(/img/foto-grup/BKSAP.jpg);">
+        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/bksap.jpg);">
           <div class="content">
             <div class="name">BKSAP</div>
             <div class="des">Badan Kerja Sama Antar Parlemen terdiri dari Biro media dan Biro Humas</div>
@@ -16,7 +16,7 @@
             </a>
           </div>
         </div>
-        <div class="item" style="background-image: url(/img/foto-grup/BKSAP.jpg);">
+        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/bksap.jpg);">
           <div class="content">
             <div class="name">BKSAP</div>
             <div class="des">Badan Kerja Sama Antar Parlemen terdiri dari Biro media dan Biro Humas</div>
@@ -111,47 +111,23 @@
     <div class="anggota-4">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/bksap/senator/ketua/Muhammad Yusuf Atabik Azis.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/bksap/Nesa Safitri Zahra_Ketua Badan Kerjasama Antar Parlemen.png" />
         </div>
         <div class="content1">
-          <h2>Muhammad Yusuf Atabik Azis</h2>
+          <h2>Nesa Safitri Zahra</h2>
           <p class="deskripsi">
-            Ketua BKSAP</br>FH UNDIP 2025
+            Ketua BKSAP</br>FH UNDIP 2026
           </p>
         </div>
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/bksap/senator/biro-infografis/Laksita Satyaning Kuncoro.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/bksap/Dungo Robintang Immanel Situmeang_Senator Humas.png" />
         </div>
         <div class="content1">
-          <h2>Laksita Satyaning Kuncoro</h2>
+          <h2>Dungo Robintang Immanel Situmeang</h2>
           <p class="deskripsi">
-            Senator Biro Media</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class="anggota-4-1">
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/bksap/senator/biro-videografi/Dayinda Shofia Nabila.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Dayinta Shofia Nabila</h2>
-          <p class="deskripsi">
-            Senator Biro Humas</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/bksap/staff/ketua-biro-humas/Rendra Haksatriya Pradhana.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Rendra Haksatriya Pradhana</h2>
-          <p class="deskripsi">
-            Ketua Biro Humas</br>SM FH UNDIP 2025
+            Senator Biro Humas</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
@@ -159,47 +135,23 @@
     <div class="anggota-4-1">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/bksap/staff/ketua-biro-infografis/Dindra Lintang Hapsari.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/bksap/Intan Putri Cahya Septiandini_Senator Desain.png" />
         </div>
         <div class="content1">
-          <h2>Dindra Lintang Hapsari</h2>
+          <h2>Intan Putri Cahya Septiandini</h2>
           <p class="deskripsi">
-            Ketua Biro Infografis</br>SM FH UNDIP 2025
+            Senator Biro Desain</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/bksap/staff/ketua-biro-videografi/Muh. Luqman Hakim.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/bksap/Najla Fakhira Fadhli_Senator Media.png" />
         </div>
         <div class="content1">
-          <h2>Muh. Luqman Hakim</h2>
+          <h2>Najla Fakhira Fadhli</h2>
           <p class="deskripsi">
-            Ketua Biro Videografi</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class="anggota-4-1">
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/bksap/staff/staff-biro-humas/Anggie Wiyaniputri Prayogo.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Anggie Wiyaniputri Prayogo</h2>
-          <p class="deskripsi">
-            Staff Biro Humas</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/bksap/staff/staff-biro-humas/Kayla Safiranisa.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Kayla Safiranisa</h2>
-          <p class="deskripsi">
-            Staff Biro Humas</br>SM FH UNDIP 2025
+            Senator Biro Media</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
@@ -207,23 +159,23 @@
     <div class="anggota-4-1">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/bksap/staff/staff-biro-infografis/Gabriela Aloine Morinata.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/bksap/Sabrina Natasha Elizabeth Nababan_Ketua Biro Humas.png" />
         </div>
         <div class="content1">
-          <h2>Gabriela Aloine Morianta</h2>
+          <h2>Sabrina Natasha Elizabeth Nababan</h2>
           <p class="deskripsi">
-            Staff Biro Infografis</br>SM FH UNDIP 2025
+            Ketua Biro Humas</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/bksap/staff/staff-biro-infografis/Tawaffany Andara Putri Hawary.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/bksap/Vory Aminda Swanriani_Ketua Biro Desain.png" />
         </div>
         <div class="content1">
-          <h2>Tawaffany Andara Putri Hawary</h2>
+          <h2>Vory Aminda Swanriani</h2>
           <p class="deskripsi">
-            Staff Biro Infografis</br>SM FH UNDIP 2025
+            Ketua Biro Desain</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
@@ -231,23 +183,95 @@
     <div class="anggota-4-1">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/bksap/staff/staff-biro-videografi/Aulia Fitrianisa Sujai.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/bksap/Nasya Digta Kuncoro_Ketua Biro Media.png" />
         </div>
         <div class="content1">
-          <h2>Aulia Fitrianisa Sujai</h2>
+          <h2>Nasya Digta Kuncoro</h2>
           <p class="deskripsi">
-            Staff Biro Videografi</br>SM FH UNDIP 2025
+            Ketua Biro Media</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/bksap/staff/staff-biro-videografi/Muhammad Al-Khawarizmi.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/bksap/Merry Licantika Manalu_Staff Ahli Biro Desain.png" />
         </div>
         <div class="content1">
-          <h2>Muhammad Al-Khawarizmi</h2>
+          <h2>Merry Licantika Manalu</h2>
           <p class="deskripsi">
-            Staff Biro Videografi</br>SM FH UNDIP 2025
+            Staff Ahli Biro Desain</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="anggota-4-1">
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/bksap/Nadine Wulan Revalintina_Staff Ahli Biro Media.png" />
+        </div>
+        <div class="content1">
+          <h2>Nadine Wulan Revalintina</h2>
+          <p class="deskripsi">
+            Staff Ahli Biro Media</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/bksap/Nayla Safira Azzahra_Staff Ahli Biro Desain.png" />
+        </div>
+        <div class="content1">
+          <h2>Nayla Safira Azzahra</h2>
+          <p class="deskripsi">
+            Staff Ahli Biro Desain</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="anggota-4-1">
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/bksap/Nafis Faiz Nasrullah_Staff Ahli Biro Humas.png" />
+        </div>
+        <div class="content1">
+          <h2>Nafis Faiz Nasrullah</h2>
+          <p class="deskripsi">
+            Staff Ahli Biro Humas</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/bksap/Khalisha Rafeyfa__Staff Ahli Biro Desain.png" />
+        </div>
+        <div class="content1">
+          <h2>Khalisha Rafeyfa</h2>
+          <p class="deskripsi">
+            Staff Ahli Biro Desain</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="anggota-4-1">
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/bksap/Paulus Adi Setiawan_Staff Ahli Biro Humas.png" />
+        </div>
+        <div class="content1">
+          <h2>Paulus Adi Setiawan</h2>
+          <p class="deskripsi">
+            Staff Ahli Biro Humas</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/bksap/Riyandhana Wahyu Putri Bintang Nusantara_Staff Ahli Biro Media.png" />
+        </div>
+        <div class="content1">
+          <h2>Riyandhana Wahyu Putri Bintang Nusantara</h2>
+          <p class="deskripsi">
+            Staff Ahli Biro Media</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>

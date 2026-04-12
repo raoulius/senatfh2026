@@ -7,7 +7,7 @@
     <div class="container6">
       <div class="slide">
 
-        <div class="item" style="background-image: url(/img/foto-grup/Badan-Kehormatan.jpg);">
+        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/badan-kehormatan.jpg);">
           <div class="content">
             <div class="name">Badan Kehormatan</div>
             <div class="des">Badan Kehormatan adalah badan yang dibentuk SM FH Undip dan merupakan alat kelengkapan SM FH Undip yang bersifat tetap serta memiliki tugas untuk menegakkan tata tertib, tata beracara, dan kode etik</div>
@@ -16,7 +16,7 @@
             </a>
           </div>
         </div>
-        <div class="item" style="background-image: url(/img/foto-grup/Badan-Kehormatan.jpg);">
+        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/badan-kehormatan.jpg);">
           <div class="content">
             <div class="name">Badan Kehormatan</div>
             <div class="des">Badan Kehormatan adalah badan yang dibentuk SM FH Undip dan merupakan alat kelengkapan SM FH Undip yang bersifat tetap serta memiliki tugas untuk menegakkan tata tertib, tata beracara, dan kode etik</div>
@@ -100,23 +100,23 @@
     <div class="anggota-4">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/badan-kehormatan/ketua/Faranisa Syifa Aulia Wibowo.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-kehormatan/Salsabeila Raisa Kamila_Ketua Badan Kehormatan.png" />
         </div>
         <div class="content1">
-          <h2>Faranisa Syifa Aulia Wibowo</h2>
+          <h2>Salsabeila Raisa Kamila</h2>
           <p class="deskripsi">
-            Ketua Badan Kehormatan</br>SM FH UNDIP 2025
+            Ketua Badan Kehormatan</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/badan-kehormatan/senator/Andi Siradjuddin.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-kehormatan/Angela Haruko Purnomo Siwi_Senator Anggota.png" />
         </div>
         <div class="content1">
-          <h2>Andi Siradjuddin</h2>
+          <h2>Angela Haruko Purnomo Siwi</h2>
           <p class="deskripsi">
-            Senator Anggota</br>SM FH UNDIP 2025
+            Senator Anggota</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
@@ -124,23 +124,36 @@
     <div class="anggota-4-1">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/badan-kehormatan/senator/Andre Ikdan.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-kehormatan/M. Rizky Sugiarto_Senator Anggota.png" />
         </div>
         <div class="content1">
-          <h2>Andre Ikdan</h2>
+          <h2>M. Rizky Sugiarto</h2>
           <p class="deskripsi">
-            Senator Anggota</br>SM FH UNDIP 2025
+            Senator Anggota</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/badan-kehormatan/senator/Immanuerla Sharleen Baragita Panunggal.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-kehormatan/M.Naufal Al Fayyadh.png" />
         </div>
         <div class="content1">
-          <h2>Immanuela Sharleen Baragita Panunggal</h2>
+          <h2>M.Naufal Al Fayyadh</h2>
           <p class="deskripsi">
-            Senator Anggota</br>SM FH UNDIP 2025
+            Senator Anggota</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="anggota-4-2">
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-kehormatan/Muhammad Rizki Juniarto_Senator Anggota.png" />
+        </div>
+        <div class="content1">
+          <h2>Muhammad Rizki Juniarto</h2>
+          <p class="deskripsi">
+            Senator Anggota</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
