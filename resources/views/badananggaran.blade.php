@@ -7,7 +7,7 @@
     <div class="container6">
       <div class="slide">
 
-        <div class="item" style="background-image: url(/img/foto-grup/Badan-Anggaran.jpg);">
+        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/badan-anggaran.jpg);">
           <div class="content">
             <div class="name">Badan Anggaran</div>
             <div class="des">Badan anggaran adalah badan yang dibentuk oleh SM FH Undip dan merupakan alat kelengkapan SM FH Undip yang bersifat tetap, badan ini memiliki tugas serta fungsi yang tidak jauh daripada fungsi anggaran yang
@@ -17,7 +17,7 @@
             </a>
           </div>
         </div>
-        <div class="item" style="background-image: url(/img/foto-grup/Badan-Anggaran.jpg);">
+        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/badan-anggaran.jpg);">
           <div class="content">
             <div class="name">Badan Anggaran</div>
             <div class="des">Badan anggaran adalah badan yang dibentuk oleh SM FH Undip dan merupakan alat kelengkapan SM FH Undip yang bersifat tetap, badan ini memiliki tugas serta fungsi yang tidak jauh daripada fungsi anggaran yang
@@ -51,7 +51,6 @@
           <h4>Mengadakan Raker FH Undip, SUPA FH Undip, Rapat Evaluasi FH Undip, dan LPJ FH Undip</h4>
         </div>
       </div>
-      
 
     </div>
   </section>
@@ -108,119 +107,23 @@
     <div class="anggota-4">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/badan-anggaran/ketua/Tegar Fachrezi Majid.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Tegar Fachrezi Majid</h2>
-          <p class="deskripsi">
-            Ketua Badan Anggaran</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/badan-anggaran/senator/Aaliyah Davalynn Setiawan.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Aaliyah Davalynn Setiawan</h2>
-          <p class="deskripsi">
-            Senator Anggota</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class="anggota-4-1">
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/badan-anggaran/senator/Alisha Fathiya.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Alisha Fathiya</h2>
-          <p class="deskripsi">
-            Senator Anggota</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/badan-anggaran/senator/Kms M Fadhlurrohman Fayyadh.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Kms M Fadhlurrohman Fayyadh</h2>
-          <p class="deskripsi">
-            Senator Anggota</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class="anggota-4-1">
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/badan-anggaran/staff/Alda Hamidatuz Zahrah.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Alda Hamidatuz Zahrah</h2>
-          <p class="deskripsi">
-            Senator Anggota</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/badan-anggaran/staff/Dhiyasyahba Muzhafara.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Dhiyasyahba Muzhafara</h2>
-          <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class="anggota-4-1">
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/badan-anggaran/staff/Ferdito Rohman.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-anggaran/Ferdito Rohman_Ketua Badan anggaran.png" />
         </div>
         <div class="content1">
           <h2>Ferdito Rohman</h2>
           <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
+            Ketua Badan Anggaran</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/badan-anggaran/staff/Kholifah Eliyani Dwi Sumaryanti.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-anggaran/Afridho Firdaus Haqiqi_Senator Anggota.png" />
         </div>
         <div class="content1">
-          <h2>Kholifah Eliyani Dwi Sumaryanti</h2>
+          <h2>Afridho Firdaus Haqiqi</h2>
           <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class="anggota-4-1">
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/badan-anggaran/staff/Megawati Dwi Putria Syafril.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Megawati Dwi Putria Syafril</h2>
-          <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
-          </p>
-        </div>
-      </div>
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/badan-anggaran/staff/Muhamad Rayhan.jpg" />
-        </div>
-        <div class="content1">
-          <h2>Muhamad Rayhan</h2>
-          <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
+            Senator Anggota</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
@@ -228,23 +131,23 @@
     <div class="anggota-4-1">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/badan-anggaran/staff/Najwa Aqila Ardiyanto.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-anggaran/Muhammad Arkan Ramadhan_Senator Anggota.png" />
         </div>
         <div class="content1">
-          <h2>Najwa Aqila Ardiyanto</h2>
+          <h2>Muhammad Arkan Ramadhan</h2>
           <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
+            Senator Anggota</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/badan-anggaran/staff/Nayla Sausan Sativa Widagdo.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-anggaran/Muhammad Ridho Atif Antariksa_Senator Anggota.png" />
         </div>
         <div class="content1">
-          <h2>Nayla Sausan Sativa Widagdo</h2>
+          <h2>Muhammad Ridho Atif Antariksa</h2>
           <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
+            Senator Anggota</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
@@ -252,23 +155,143 @@
     <div class="anggota-4-1">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/badan-anggaran/staff/Revalina Putri Pringgodigdo.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-anggaran/Puti Dhiya Zahrani_ Senator Anggota.png" />
         </div>
         <div class="content1">
-          <h2>Revalina Putri Pringgodigdo</h2>
+          <h2>Puti Dhiya Zahrani</h2>
           <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
+            Senator Anggota</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/badan-anggaran/staff/Vanessa Laura Patricia.jpg" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-anggaran/Gabriella Halleluyana Munte_staff ahli.png" />
         </div>
         <div class="content1">
-          <h2>Vanessa Laura Patricia</h2>
+          <h2>Gabriella Halleluyana Munte</h2>
           <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2025
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="anggota-4-1">
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-anggaran/Gihanda Allan Pratama_Staf Ahli.png" />
+        </div>
+        <div class="content1">
+          <h2>Gihanda Allan Pratama</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-anggaran/Kelly Lohrenz_Staff Ahli.png" />
+        </div>
+        <div class="content1">
+          <h2>Kelly Lohrenz</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="anggota-4-1">
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-anggaran/Muhamad Rayya Rabbani_Staff Ahli.png" />
+        </div>
+        <div class="content1">
+          <h2>Muhamad Rayya Rabbani</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-anggaran/Nadia Salsabila_Staff Ahli.png" />
+        </div>
+        <div class="content1">
+          <h2>Nadia Salsabila</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="anggota-4-1">
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-anggaran/Rutdina Handayani_Staff Ahli.png" />
+        </div>
+        <div class="content1">
+          <h2>Rutdina Handayani</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-anggaran/Sekararum Larrashantya Riyadi_Staff Ahli.png" />
+        </div>
+        <div class="content1">
+          <h2>Sekararum Larrashantya Riyadi</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="anggota-4-1">
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-anggaran/Sonia Ayu Maharani_Staff Ahli.png" />
+        </div>
+        <div class="content1">
+          <h2>Sonia Ayu Maharani</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-anggaran/Tiara Kusumawardani_Staff Ahli.png" />
+        </div>
+        <div class="content1">
+          <h2>Tiara Kusumawardani</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="anggota-4-1">
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-anggaran/Viola Herdiana Rida Atmada_staff ahli.png" />
+        </div>
+        <div class="content1">
+          <h2>Viola Herdiana Rida Atmada</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
+          </p>
+        </div>
+      </div>
+      <div class="card-coba">
+        <div class="imgbox">
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-anggaran/Yessica Kenya Aurelia Siregar_Staf Ahli.png" />
+        </div>
+        <div class="content1">
+          <h2>Yessica Kenya Aurelia Siregar</h2>
+          <p class="deskripsi">
+            Staff Ahli</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
