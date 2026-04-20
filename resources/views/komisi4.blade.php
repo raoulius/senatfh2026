@@ -30,7 +30,7 @@
 
   <section class="container">
     <div class="section-header6">
-      <h2 class="modern-header">Tugas Pokok dan Wewenang Komisi IV</h2>
+      <h2 class="modern-header">Tugas Pokok dan Komisi IV</h2>
     </div>
     <div class="modern-wewenang">
       <div class="modern-card">
@@ -125,16 +125,14 @@
             <div class="title">BEM FH</div>
             <div class="topic">ADVO KESMA</div>
             <div class="des">
-              Advokesma BEM FH Undip berfungsi sebagai "jembatan penghubung" antara mahasiswa dan pemangku kebijakan, dengan fokus pada pelayanan, pengawalan, dan pergerakan untuk memberikan kebermanfaatan dan dampak positif bagi mahasiswa
-              Fakultas Hukum Undip.
+              Bidang Advokesma BEM FH Undip Merupakan salah satu bidang yang bertujuan untuk mengawal aspirasi atau keterbutuhan mahasiswa yang berkaitan dengan Uang Kuliah Tunggal (UKT), Beasiswa, dan Pembiayaan perkuliahan lainnya.
             </div>
             <button class="seeMore">Selengkapnya </button>
           </div>
           <div class="detail">
             <div class="title">ADVO KESMA</div>
             <div class="des">
-              Advokesma BEM FH Undip merupakan “jembatan penghubung” antara mahasiswa dengan pemangku kebijakan. Bidang Advokesma akan berfokus menyebarkan kebermanfaatan dan keberdampakan kepada mahasiswa Fakultas Hukum Undip melalui
-              pengabdian berupa pelayanan, pengawalan, dan pergerakan.
+              Bidang Advokesma BEM FH Undip Merupakan salah satu bidang yang bertujuan untuk mengawal aspirasi atau keterbutuhan mahasiswa yang berkaitan dengan Uang Kuliah Tunggal (UKT), Beasiswa, dan Pembiayaan perkuliahan lainnya.
             </div>
 
           </div>
@@ -146,7 +144,7 @@
             <div class="title">BEM FH</div>
             <div class="topic">KAPRO</div>
             <div class="des">
-              Bidang Karier dan Profesi BEM FH Undip 2025 membantu mahasiswa mempersiapkan karir dengan menyediakan informasi lowongan kerja dan magang di bidang hukum, serta mendukung pengembangan kemampuan mahasiswa untuk menunjang karir
+              Bidang Karier dan Profesi (KAPRO) BEM FH Undip adalah salah satu bidang yang bertujuan untuk membantu mahasiswa mempersiapkan karir dengan menyediakan informasi lowongan kerja dan magang di bidang hukum, serta mendukung pengembangan kemampuan mahasiswa untuk menunjang karir
               mereka di masa depan.
             </div>
             <button class="seeMore">Selengkapnya </button>
@@ -154,7 +152,7 @@
           <div class="detail">
             <div class="title">KAPRO</div>
             <div class="des">
-              Bidang Karier dan Profesi BEM FH Undip tahun 2025 hadir untuk membersamai dan membantu mahasiswa dalam mempersiapkan karir mereka di masa depan, baik dari sisi kemampuan mahasiswa yaitu Kepandaian maupun luar diri mahasiswa
+              Bidang Karier dan Profesi BEM FH Undip tahun hadir untuk membersamai dan membantu mahasiswa dalam mempersiapkan karir mereka di masa depan, baik dari sisi kemampuan mahasiswa yaitu Kepandaian maupun luar diri mahasiswa
               yaitu adanya kuota lowongan pekerjaan yang tersedia. Bidang karier dan profesi pun mengawal serta melayani mahasiswa FH Undip terkait segala hal yang bisa menunjang karier mahasiswa fakultas hukum dengan membuka jalan informasi
               terkait lowongan kerja dan magang di ranah hukum dengan harapan bahwa segala upaya yang dilakukan dapat mempermudah mahasiswa FH Undip dalam mengasah diri yang beresonansi dengan minat dan jurusannya.
             </div>

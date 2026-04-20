@@ -31,7 +31,7 @@
   
       <section class="container">
         <div class="section-header6">
-          <h2 class="modern-header">Tugas Pokok dan Wewenang BURT</h2>
+          <h2 class="modern-header">Tugas Pokok BURT</h2>
         </div>
         <div class="modern-wewenang">
           <div class="modern-card">

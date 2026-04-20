@@ -31,7 +31,7 @@
 
   <section class="container">
     <div class="section-header6">
-      <h2 class="modern-header">Tugas Pokok dan Wewenang Komisi I</h2>
+      <h2 class="modern-header">Tugas Pokok Komisi I</h2>
     </div>
     <div class="modern-wewenang">
       <div class="modern-card">
@@ -79,7 +79,8 @@
             <div class="title">UKM-F</div>
             <div class="topic">KSHI</div>
             <div class="des">
-              KSHI FH Undip adalah UKM-F independen dan profesional yang fokus pada kajian hukum Islam dan kontemporer sebagai sarana sosialisasi di lingkungan FH Undip dan masyarakat. Didirikan pada 15 Juni 2000.
+              Kelompok Studi Hukum Islam (KSHI) adalah organisasi yang merupakan Unit Kegiatan Mahasiswa Fakultas (UKM-F) yang independen dan profesional dalam bidang pengkajian dan penelitian yang berfokus kepada hukum
+              Islam dan hukum kontemporer sebagai sarana sosialisasi di kalangan civitas akademika FH Undip dan masyarakat.
             </div>
             <button class="seeMore">Selengkapnya </button>
           </div>
@@ -98,7 +99,7 @@
             <div class="title">UKM-F</div>
             <div class="topic">KSBA</div>
             <div class="des">
-              KSBA (Kelompok Studi Bahasa Asing) adalah UKM-F di bawah naungan FH Undip sejak 9 Januari 1999 yang berfokus pada pengembangan wawasan bahasa, budaya asing, dan isu hukum bagi anggotanya.
+              Kelompok Studi Bahasa Asing (KSBA) adalah UKM-F di bawah naungan FH Undip sejak 9 Januari 1999 yang berfokus pada pengembangan wawasan bahasa, budaya asing, dan isu hukum bagi anggotanya.
             </div>
             <button class="seeMore">Selengkapnya </button>
           </div>
@@ -139,7 +140,7 @@
             <div class="title">UKM-F</div>
             <div class="topic">ALSA</div>
             <div class="des">
-              Asian Law Students’ Association (ALSA) adalah organisasi non-politik dan non-profit yang mewadahi mahasiswa hukum Asia untuk tumbuh sebagai profesional, pemimpin masa depan, dan aktor kunci dalam perkembangan hukum di Asia.
+              Asian Law Students’ Association (ALSA) adalah organisasi non-politik dan non-profit yang menyambut keragaman budaya, memajukan profesionalisme, serta etos kerja keras yang merupakan ciri khas orang Asia.
             </div>
             <button class="seeMore">Selengkapnya</button>
           </div>
@@ -204,8 +205,7 @@
             <div class="title">UKM-F</div>
             <div class="topic">KRD</div>
             <div class="des">
-              Kelompok Riset dan Debat Fakultas Hukum Universitas Diponegoro (KRD FH UNDIP) adalah unit kegiatan mahasiswa yang berorientasi pada pengembangan keilmuan, kompetisi, dan dinamika organisasi. KRD FH UNDIP berdiri sejak tahun 2009
-              dengan nama awal “Komunitas Riset dan Debat”.
+              Kelompok Riset dan Debat Fakultas Hukum Universitas Diponegoro (KRD FH UNDIP) adalah unit kegiatan mahasiswa yang berorientasi pada pengembangan keilmuan, kompetisi, dan dinamika organisasi.
             </div>
             <button class="seeMore">Selengkapnya</button>
           </div>

@@ -95,9 +95,8 @@
         yang kami ambil.
         Melalui situs web mahasiswa ini, Anda akan menemukan informasi terkini mengenai kegiatan, program, dan berbagai kegiatan yang kami selenggarakan. Kami juga mengundang Anda untuk terlibat secara aktif dalam berbagai kegiatan yang kami adakan,
         serta menyampaikan aspirasi dan gagasan Anda untuk kemajuan bersama.
-        Terima kasih telah mengunjungi situs web Senat Mahasiswa FH Undip. Mari bersama-sama menciptakan lingkungan belajar yang inspiratif dan berdaya saing tinggi bagi mahasiswa FH Undip.
+        Terima kasih telah mengunjungi situs web Senat Mahasiswa FH Undip. Mari bersama-sama menciptakan lingkungan belajar yang inspiratif dan berdaya saing tinggi bagi mahasiswa FH Undip.<br>Viva Legislativa!
       </p>
-      <p class="viva">Viva Legislativa!</p>
       <a class="btn" href="{{ url("/selayangpandang#makna-logoparlemen") }}">Makna Logo</a>
     </div>
     <div class="logo-container">
