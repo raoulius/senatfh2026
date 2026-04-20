@@ -10,7 +10,7 @@
         <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/komisi-i.jpg);">
           <div class="content">
             <div class="name">KOMISI I</div>
-            <div class="des">Komisi I adalah komisi yang menaungi terkait dengan Bidang Pengembangan dan Keilmuan</div>
+            <div class="des">Komisi I adalah komisi yang menaungi Bidang Pengembangan dan Keilmuan</div>
             <a href="http://127.0.0.1:8000/komisi1" target="_blank">
               <button>Selengkapnya</button>
             </a>
@@ -19,7 +19,7 @@
         <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/komisi-i.jpg);">
           <div class="content">
             <div class="name">KOMISI I</div>
-            <div class="des">Komisi I adalah adalah komisi yang menaungi terkait dengan Bidang Pengembangan dan Keilmuan</div>
+            <div class="des">Komisi I adalah adalah komisi yang menaungi Bidang Pengembangan dan Keilmuan</div>
 
           </div>
         </div>
@@ -36,27 +36,32 @@
     <div class="modern-wewenang">
       <div class="modern-card">
         <div class="content">
-          <h4>Melaksanakan Rapat Kerja Dengan Mitra Kerja Dalam Bidang pengembangan dan keilmuan</h4>
+          <h4>Melakukan koordinasi berupa rapat kerja, sosialisasi dengan Mitra Kerja.</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Menampung aspirasi dari mitra kerja dalam bidang pengembangan dan keilmuan serta melakukan advokasi kepada pihak terkait</h4>
+          <h4>Melaksanakan 4 (empat) fungsi dari SM FH Undip.</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Melaksanakan fungsi pengawasan dan fungsi legislasi terhadap mitra kerja dalam bidang pengembangan dan keilmuan</h4>
+          <h4>Melakukan pengawasan dan penilaian terhadap Mitra Kerja.</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Menjembatani hubungan mitra kerja dalam bidang pengembangan dan keilmuan dengan Dekanat</h4>
+          <h4>Menampung aspirasi Mitra Kerja dan mengadvokasikan kepada pihak terkait.</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Melaksanakan Laporan Pertanggung jawaban Terbuka dari mitra kerja</h4>
+          <h4>Menjembatani Mitra Kerja dengan Dekanat FH Undip.</h4>
+        </div>
+      </div>
+      <div class="modern-card">
+        <div class="content">
+          <h4>Melaporkan hasil pertanggungjawaban kepada publik.</h4>
         </div>
       </div>
     </div>
@@ -93,7 +98,7 @@
             <div class="title">UKM-F</div>
             <div class="topic">KSBA</div>
             <div class="des">
-              KSBA (Kelompok Studi Bahasa Asing) adalah UKM-F di bawah FH Undip sejak 9 Januari 1999 yang berfokus pada pengembangan wawasan bahasa, budaya asing, dan isu hukum bagi anggotanya.
+              KSBA (Kelompok Studi Bahasa Asing) adalah UKM-F di bawah naungan FH Undip sejak 9 Januari 1999 yang berfokus pada pengembangan wawasan bahasa, budaya asing, dan isu hukum bagi anggotanya.
             </div>
             <button class="seeMore">Selengkapnya </button>
           </div>
@@ -113,7 +118,7 @@
             <div class="title">BEM FH</div>
             <div class="topic">Riskel</div>
             <div class="des">
-              Bidang Riset dan Keilmuan BEM FH Undip 2025 merupakan motor penggerak kaderisasi riset dan wadah pengembangan potensi mahasiswa di bidang riset dan keilmuan, guna menciptakan iklim riset yang intelek dan berdampak bagi FH Undip,
+              Bidang Riset dan Keilmuan (RISKEL) BEM FH Undip merupakan motor penggerak kaderisasi riset dan wadah pengembangan potensi mahasiswa di bidang riset dan keilmuan, guna menciptakan iklim riset yang intelek dan berdampak bagi FH Undip,
               Undip, dan masyarakat.
             </div>
             <button class="seeMore">Selengkapnya</button>
@@ -121,7 +126,7 @@
           <div class="detail">
             <div class="title">Riskel</div>
             <div class="des">
-              Bidang Riset dan Keilmuan BEM FH Undip 2025 merupakan Bidang roda penggerak kaderisasi riset dan wadah bagi mahasiswa dalam mengembangkan potensi riset guna menciptakan mahasiswa/i FH Undip yang intelek di ranah riset dan
+              Bidang Riset dan Keilmuan (RISKEL) BEM FH Undip merupakan Bidang roda penggerak kaderisasi riset dan wadah bagi mahasiswa dalam mengembangkan potensi riset guna menciptakan mahasiswa/i FH Undip yang intelek di ranah riset dan
               keilmuan untuk menciptakan iklim riset yang optimal demi kebermanfaatan FH Undip, Undip, dan masyarakat.
             </div>
 
@@ -146,6 +151,25 @@
               perbedaan sistem hukum di negara masing-masing anggota perlu dipersatukan untuk mempersiapkan mahasiswa hukum di seluruh Asia agar dapat bersaing dalam era tersebut.ALSA Local Chapter Universitas Diponegoro (ALSA LC Undip)
               merupakan salah satu Local Chapter di Indonesia dan merupakan Unit Kegiatan Mahasiswa Fakultas (UKM-F) dalam lingkup Fakultas Hukum Universitas Diponegoro yang berdiri pada tanggal 1 Juni 1994. Setelah 3 dekade berdiri, tepatnya
               sudah berumur 30 tahun, ALSA LC Undip secara nyata telah memberi kontribusi baik bagi Civitas Akademika Fakultas Hukum Universitas Diponegoro maupun masyarakat secara luas.
+            </div>
+
+          </div>
+        </div>
+
+        <div class="item">
+          <img src="img/mitra-kerja1/DIMCA.PNG">
+          <div class="introduce">
+            <div class="title">UKM-F</div>
+            <div class="topic">DIMCA</div>
+            <div class="des">
+              Asosiasi Kompetisi Moot Internasional Diponegoro (disebut sebagai "DIMCA") adalah organisasi yang didirikan di Fakultas Hukum, Universitas Diponegoro. 
+            </div>
+            <button class="seeMore">Selengkapnya</button>
+          </div>
+          <div class="detail">
+            <div class="title">Pseudo</div>
+            <div class="des">
+              Asosiasi Kompetisi Moot Internasional Diponegoro (disebut sebagai "DIMCA") adalah organisasi yang didirikan di Fakultas Hukum, Universitas Diponegoro. DIMCA diciptakan sebagai tempat belajar oleh mahasiswa, untuk mahasiswa, guna membantu dan lebih memperkuat minat dalam hukum internasional, dengan mengembangkan penelitian hukum dan berpartisipasi dalam kompetisi moot internasional di seluruh dunia.
             </div>
 
           </div>
@@ -180,8 +204,8 @@
             <div class="title">UKM-F</div>
             <div class="topic">KRD</div>
             <div class="des">
-              KRD FH Undip adalah UKM-F yang fokus pada pengembangan keilmuan, kompetisi, dan organisasi sejak 2009. KRD mewadahi mahasiswa dalam berbagai lomba hukum serta mendorong terbentuknya intelektual muda yang berdampak bagi
-              masyarakat.
+              Kelompok Riset dan Debat Fakultas Hukum Universitas Diponegoro (KRD FH UNDIP) adalah unit kegiatan mahasiswa yang berorientasi pada pengembangan keilmuan, kompetisi, dan dinamika organisasi. KRD FH UNDIP berdiri sejak tahun 2009
+              dengan nama awal “Komunitas Riset dan Debat”.
             </div>
             <button class="seeMore">Selengkapnya</button>
           </div>
@@ -266,7 +290,7 @@
         <div class="content1">
           <h2>Puti Dhiya Zahrani</h2>
           <p class="deskripsi">
-            Ketua Komisi I</br>FH UNDIP 2026
+            Ketua Komisi I</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
@@ -311,10 +335,10 @@
     <div class="anggota-4-1">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-i/Faqih Nuris Shiba_Senator Anggota_noBG.png" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-i/Ronaldo Rumapea_Senator Anggota_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Faqih Nuris Shiba</h2>
+          <h2>Ronaldo Rumapea</h2>
           <p class="deskripsi">
             Senator Anggota</br>SM FH UNDIP 2026
           </p>
@@ -335,12 +359,12 @@
     <div class="anggota-4-1">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-i/Ronaldo Rumapea_Senator Anggota_noBG.png" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-i/Stevany Mitra Valencia Saragih_Staf Ahli Komisi 1_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Ronaldo Rumapea</h2>
+          <h2>Stevany Mitra Valencia Saragih</h2>
           <p class="deskripsi">
-            Senator Anggota</br>SM FH UNDIP 2026
+            Staff Ahli</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
@@ -428,7 +452,7 @@
         </div>
       </div>
     </div>
-    <div class="anggota-4-1">
+    <div class="anggota-4-2">
       <div class="card-coba">
         <div class="imgbox">
           <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-i/Stephanie Aurellia Jesicawati_Staf Ahli Komisi 1_noBG_.png" />
@@ -440,17 +464,7 @@
           </p>
         </div>
       </div>
-      <div class="card-coba">
-        <div class="imgbox">
-          <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-i/Stevany Mitra Valencia Saragih_Staf Ahli Komisi 1_noBG.png" />
-        </div>
-        <div class="content1">
-          <h2>Stevany Mitra Valencia Saragih</h2>
-          <p class="deskripsi">
-            Staff Ahli</br>SM FH UNDIP 2026
-          </p>
-        </div>
-      </div>
+      
     </div>
   </section>
 

@@ -38,12 +38,17 @@
     <div class="modern-wewenang">
       <div class="modern-card">
         <div class="content">
-          <h4>Melakukan sosialisasi dan advokasi mengenai mekanisme anggaran</h4>
+          <h4>Menyusun standarisasi harga yang didasarkan dengan harga pasar yang dilakukan dengan survei dan pengecekan harga.</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Membahas pengolahan dan analisis data anggaran pada Proposal dan LPPK oleh Ormawa FH Undip</h4>
+          <h4>Melakukan sosialisasi dan advokasi mengenai mekanisme anggaran dan macam macam sumber dana yang dapat digunakan oleh Ormawa FH Undip</h4>
+        </div>
+      </div>
+      <div class="modern-card">
+        <div class="content">
+          <h4>Menetapkan, memonitoring serta memberikan evaluasi terkait dengan pelaksanaan anggaran Ormawa FH Undip</h4>
         </div>
       </div>
       <div class="modern-card">
@@ -51,7 +56,16 @@
           <h4>Mengadakan Raker FH Undip, SUPA FH Undip, Rapat Evaluasi FH Undip, dan LPJ FH Undip</h4>
         </div>
       </div>
-
+      <div class="modern-card">
+        <div class="content">
+          <h4>Memberikan evaluasi anggaran terhadap Ormawa FH Undip</h4>
+        </div>
+      </div>
+      <div class="modern-card">
+        <div class="content">
+          <h4>Melakukan audit terhadap Proposal, LPPK, dan LPJ yang dilaporkan oleh Ormawa FH Undip.</h4>
+        </div>
+      </div>
     </div>
   </section>
   <section class="container-k">
@@ -118,12 +132,12 @@
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-anggaran/Afridho Firdaus Haqiqi_Senator Anggota.png" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-anggaran/Muhamad Rayya Rabbani_Staff Ahli.png" />
         </div>
         <div class="content1">
           <h2>Afridho Firdaus Haqiqi</h2>
           <p class="deskripsi">
-            Senator Anggota</br>SM FH UNDIP 2026
+            Senator Anggota</br>SM FH UNDIP 2026 
           </p>
         </div>
       </div>
@@ -201,9 +215,9 @@
       </div>
     </div>
     <div class="anggota-4-1">
-      <div class="card-coba">
+      <div class="card-coba"> 
         <div class="imgbox">
-          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-anggaran/Muhamad Rayya Rabbani_Staff Ahli.png" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-anggaran/Afridho Firdaus Haqiqi_Senator Anggota.png" />
         </div>
         <div class="content1">
           <h2>Muhamad Rayya Rabbani</h2>
@@ -241,7 +255,7 @@
           <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-anggaran/Sekararum Larrashantya Riyadi_Staff Ahli.png" />
         </div>
         <div class="content1">
-          <h2>Sekararum Larrashantya Riyadi</h2>
+          <h2>Sekararum Larasshantya Riyadi</h2>
           <p class="deskripsi">
             Staff Ahli</br>SM FH UNDIP 2026
           </p>

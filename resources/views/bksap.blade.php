@@ -36,25 +36,34 @@
     <div class="modern-wewenang">
       <div class="modern-card">
         <div class="content">
-          <h4>Mengembangkan, membina, dan meningkatkan hubungan persahabatan dan kerja sama antara SM FH Undip dan parlemen lain, baik secara bilateral maupun multilateral, termasuk organisasi nasional</h4>
+          <h4>Memelihara seluruh akun media sosial yang dimiliki oleh SM FH Undip.</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Menerima kunjungan delegasi parlemen organisasi lainnya yang menjadi tamu SM FH Undip</h4>
+          <h4>Menyusun dan menjalankan website SM FH Undip</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Memelihara seluruh akun media sosial SM FH Undip 2025</h4>
+          <h4>Mengembangkan, membina, dan meningkatkan hubungan persahabatan dan kerja sama antara SM FH Undip dengan parlemen lain, baik secara bilateral maupun multilateral, termasuk organisasi nasional</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Mengoordinasikan kunjungan kerja alat kelengkapan SM FH Undip ke luar FH Undip</h4>
+          <h4>Menerima kunjungan delegasi parlemen organisasi lain yang menjadi tamu SM FH Undip</h4>
         </div>
       </div>
-
+      <div class="modern-card">
+        <div class="content">
+          <h4>Mengkoordinasikan kunjungan kerja Alat Kelengkapan SM FH Undip ke luar Fakultas Hukum Universitas Diponegoro</h4>
+        </div>
+      </div>
+      <div class="modern-card">
+        <div class="content">
+          <h4>Memberikan saran atau usul kepada Pimpinan Inti SM FH Undip tentang masalah kerjasama antar parlemen.</h4>
+        </div>
+      </div>
     </div>
   </section>
 

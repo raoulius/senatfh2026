@@ -7,7 +7,7 @@
     <div class="container6">
       <div class="slide">
 
-        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/badan-legislasi.jpg);">
+        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/Banleg.jpg);">
           <div class="content">
             <div class="name">Badan Legislasi</div>
             <div class="des">Badan legislasi merupakan salah satu alat kelengkapan dari 4 badan yang berada dalam SM SM FH UNDIP 2025. Senator anggota badan legislasi mewakili masing-masing komisi terkait guna menciptakan tata kelola
@@ -17,7 +17,7 @@
             </a>
           </div>
         </div>
-        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/badan-legislasi.jpg);">
+        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/Banleg.jpg);">
           <div class="content">
             <div class="name">Badan Legislasi</div>
             <div class="des">Badan legislasi merupakan salah satu alat kelengkapan dari 4 badan yang berada dalam SM SM FH UNDIP 2025. Senator anggota badan legislasi mewakili masing-masing komisi terkait guna menciptakan tata kelola
@@ -38,27 +38,37 @@
     <div class="modern-wewenang">
       <div class="modern-card">
         <div class="content">
-          <h4>Bertanggung jawab terhadap seluruh Produk Hukum SM SM FH UNDIP 2025</h4>
+          <h4>Bertanggung jawab dalam pembentukan Produk Hukum SM FH Undip.</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Menyusun Produk Hukum bersama seluruh fungsionaris SM FH Undip</h4>
+          <h4>Menindaklanjuti aspirasi berkaitan dengan pembentukan rancangan Produk Hukum SM FH Undip</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Melakukan asistensi dalam penyusunan Produk Hukum pada setiap komisi atau badan</h4>
+          <h4>Melakukan revisi terhadap Produk Hukum SM FH Undip apabila diperlukan.</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Membentuk, Membahas, dan Mengkoordinasikan mengenai Produk Hukum SM SM FH UNDIP 2025</h4>
+          <h4>Mengadakan musyawarah mahasiswa.</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Bertanggung jawab melakukan pengarsipan Produk Hukum melalui Arsip Produk Hukum SM SM FH UNDIP 2025</h4>
+          <h4>Bertanggung jawab untuk mewakili SM FH Undip dalam mengkoordinasikan dengan pihak eksternal terkait dengan segala Produk Hukum SM FH Undip yang menjadi tanggung Jawab SM FH Undip maupun Produk Hukum SM FH Undip yang menyangkut kepentingan SM FH Undip dan mahasiswa Fakultas Hukum Universitas Diponegoro.</h4>
+        </div>
+      </div>
+      <div class="modern-card">
+        <div class="content">
+          <h4>Bertanggung jawab untuk mewakili SM FH Undip dalam penyelesaian sengketa mengenai Produk Hukum SM FIH Undip dengan pihak terkait.</h4>
+        </div>
+      </div>
+      <div class="modern-card">
+        <div class="content">
+          <h4>Berkoordinasi dengan setiap komisi dan badan dalam menjalankan fungsi legislasi.</h4>
         </div>
       </div>
     </div>

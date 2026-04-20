@@ -111,7 +111,7 @@
             <h1 class="custom-header1">MAKNA LOGO</h1>
             <p class="custom-sub1-header">
               ‘Adhigana’ berasal dari kata Sanskerta ‘adhi’ (unggul, tinggi, melampaui) dan ‘gana’ (kelompok, himpunan). Secara konseptual, ‘Adhigana’ dimaknai sebagai sekumpulan individu unggul yang memiliki ketangguhan, daya juang tinggi,
-              dan semangat pantang menyerah, yang bekerja secara kolektif untuk mencapai hasil terbaik serta siap menghadapi dan bertanggung jawab atas setiap konsekuensi dari perjuangannya.
+              dan semangat pantang menyerah, yang bekerja secara kolektif untuk mencapai hasil terbaik serta siap menghadapi dan bertanggung jawab atas setiap konsekuensi dari perjuangannya. Dalam bahasa Sanskerta, ‘cakra’ berarti ‘roda, lingkaran, atau pusat perputaran.’ Dalam konteks filosofis, ‘cakra’ dipahami sebagai pusat energi atau kesadaran dalam diri manusia yang menjadi titik pemusatan dan penyaluran potensi fisik, intelektual, emosional, dan spiritual. Masing-masing cakra memiliki kedudukan dan fungsi tersendiri, tetapi saling terhubung, tidak berdiri secara terpisah, serta beririsan dalam membentuk kesatuan kepribadian dan kesadaran manusia.
               <br><br>
               Nama parlemen dari SM FH Undip Tahun 2026, yakni Cakra Adhigana membawa makna bahwa SM FH Undip Tahun 2026 diharapkan dapat menjadi pusat dari sekelompok individu yang tangguh dengan daya juang tinggi, disiplin, pantang
               menyerah, dan sinergis untuk mencapai tujuan bersama secara optimal. Setiap anggota tidak berdiri sendiri, melainkan saling beririsan, saling menguatkan, dan bertanggung jawab antara satu sama lain dalam menjalankan fungsi,
@@ -223,56 +223,56 @@
         <div class="slide-item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/komisi-i.jpg);">
           <div class="content9">
             <div class="name">KOMISI I</div>
-            <div class="des">Komisi I adalah komisi yang menaungi terkait dengan Bidang Pengembangan dan Keilmuan</div>
+            <div class="des">Komisi I merupakan alat kelengkapan SM FH Undip yang bergerak di bidang Pengembangan dan Keilmuan.</div>
             <a href="{{ url("/tentang-komisi-i") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
         <div class="slide-item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/komisi-ii.jpg);">
           <div class="content9">
             <div class="name">KOMISI II</div>
-            <div class="des">Komisi II adalah komisi yang menaungi terkait Bidang Minat, Bakat, Kaderisasi dan Kerohanian</div>
+            <div class="des">Komisi II SM FH Undip merupakan  alat kelengkapan SM FH Undip yang bergerak di bidang minat bakat, kaderisasi dan kerohanian. </div>
             <a href="{{ url("/tentang-komisi-ii") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
         <div class="slide-item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/komisi-iii.jpg);">
           <div class="content9">
             <div class="name">KOMISI III</div>
-            <div class="des">Komisi III adalah komisi yang menangani terkait Bidang Hukum dan Hubungan Publik</div>
+            <div class="des">Komisi III SM FH Undip merupakan alat kelengkapan SM FH Undip yang bergerak di bidang Hukum dan Hubungan Publik.</div>
             <a href="{{ url("/tentang-komisi-iii") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
         <div class="slide-item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/komisi-iv.jpg);">
           <div class="content9">
             <div class="name">KOMISI IV</div>
-            <div class="des">Komisi IV adalah komisi yang menaungi terkait bidang Advokasi, Akademik, Sarana, dan Prasarana</div>
+            <div class="des">Komisi IV SM FH Undip merupakan alat kelengkapan SM FH Undip yang menaungi bidang Advokasi, Akademik, Sarana, dan Prasarana.</div>
             <a href="{{ url("/tentang-komisi-iv") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
         <div class="slide-item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/badan-legislasi.jpg);">
           <div class="content9">
             <div class="name">BADAN LEGISLASI</div>
-            <div class="des">Badan Legislasi bertanggung jawab atas proses pembentukan peraturan SM FH Undip.</div>
+            <div class="des">Badan Legislasi Merupakan alat kelengkapan SM FH Undip yang bertujuan menghasilkan Produk Hukum SM FH Undip dan bertanggung jawab atas proses pembentukan peraturan peraturan yang kewenangan pembentukannya menjadi milik SM FH Undip.</div>
             <a href="{{ url("/tentang-badan-legislasi") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
         <div class="slide-item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/badan-kehormatan.jpg);">
           <div class="content9">
             <div class="name">BADAN KEHORMATAN</div>
-            <div class="des">Menjaga serta menegakkan kehormatan dan keluhuran martabat SM FH Undip.</div>
+            <div class="des">Badan Kehormatan merupakan alat kelengkapan SM FH Undip yang  bertugas untuk melakukan penegakan Kode Etik melalui fungsi pencegahan, pengawasan, dan penindakan serta menjaga dan menegakkan kehormatan dan keluhuran martabat SM FH Undip sebagai lembaga perwakilan mahasiswa.</div>
             <a href="{{ url("/tentang-badan-kehormatan") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
         <div class="slide-item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/badan-anggaran.jpg);">
           <div class="content9">
             <div class="name">BADAN ANGGARAN</div>
-            <div class="des">Bertanggung jawab atas pelaksanaan fungsi anggaran SM FH Undip.</div>
+            <div class="des">Badan Anggaran merupakan alat kelengkapan SM FH Undip yang bertujuan dan bertanggung jawab atas penetapan dan pengawasan terhadap anggaran yang dimiliki dan dijalankan oleh Mitra Kerja SM FH Undip. </div>
             <a href="{{ url("/tentang-badan-anggaran") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
         <div class="slide-item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/burt.jpg);">
           <div class="content9">
             <div class="name">BURT</div>
-            <div class="des">Membantu kesekretariatan dan kebendaharaan Sekretaris Jenderal.</div>
+            <div class="des">Badan Urusan Rumah Tangga merupakan alat kelengkapan Senat Mahasiswa Fakultas Hukum Universitas Diponegoro yang membantu Sekretaris Jenderal dalam memegang keberjalanan birokrasi SM FH Undip 2026  pada Kesekretariatan dan Kebendaharaan.</div>
             <a href="{{ url("/tentang-burt") }}"><button>Selengkapnya</button></a>
           </div>
         </div>

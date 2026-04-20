@@ -607,8 +607,7 @@ footer .column > a:hover {
   font-size: 3rem;
   font-weight: 700;
   line-height: 3rem;
-  text-align: right;
-  margin-right: 5%;
+  text-align: center;
 }
 
 .custom-slide p {
@@ -629,8 +628,8 @@ footer .column > a:hover {
 .custom-image img {
   max-width: 65%; /* Lebar gambar */
   height: auto; /* Mengatur ketinggian gambar sesuai proporsi aslinya */
-  float: middle; /* Menggeser gambar ke sisi kiri */
-  margin-right: auto;
+  display: block; /* Menggeser gambar ke sisi kiri */
+  margin: 0 auto;
 }
 
 .custom-image img:hover {
@@ -670,7 +669,7 @@ footer .column > a:hover {
   padding: 1rem 2rem;
   font-size: 1rem;
   color: #fff;
-  background-color: #115aff;
+  background-color: #36A5B2;
   border-radius: 5px;
   cursor: pointer;
   transition: all 0.3s ease;

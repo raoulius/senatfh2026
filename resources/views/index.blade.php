@@ -87,16 +87,17 @@
       <span class="blur"></span>
       <span class="blur"></span>
       <h4 style="font-size: 2rem;">SENAT MAHASISWA FAKULTAS HUKUM UNIVERSITAS DIPONEGORO</h4>
-      <h1 style="color:#432e6e;">GEMILANG PEMRAKARSA</h1>
+      <h1 style="color:#432e6e;">CAKRA ADHIGANA</h1>
       <p>
-        Selamat datang di portal resmi Senat Fakultas Hukum Universitas Diponegoro! Kami bangga menjadi wadah bagi mahasiswa-mahasiswa FH Undip untuk berpartisipasi aktif dalam proses pembelajaran, pengembangan diri, serta pengabdian kepada
+        Selamat datang di portal resmi Senat Mahasiswa Fakultas Hukum Universitas Diponegoro! Kami bangga menjadi wadah bagi mahasiswa-mahasiswa FH Undip untuk berpartisipasi aktif dalam proses pembelajaran, pengembangan diri, serta pengabdian kepada
         mahasiswa Fakultas Hukum Universitas Diponegoro.
-        Sebagai lembaga yang mewakili suara mahasiswa, Senat FH Undip berkomitmen untuk menjaga dan memajukan kualitas kinerja di lingkungan fakultas. Kami mengedepankan nilai-nilai humanis, profesional, dan berwibawa dalam setiap langkah
+        Sebagai lembaga yang mewakili suara mahasiswa, Senat Mahasiswa FH Undip berkomitmen untuk menjaga dan memajukan kualitas kinerja di lingkungan fakultas. Kami mengedepankan nilai-nilai humanis, profesional, dan berwibawa dalam setiap langkah
         yang kami ambil.
-        Melalui situs web ini, Anda akan menemukan informasi terkini mengenai kegiatan, program, dan berbagai kegiatan yang kami selenggarakan. Kami juga mengundang Anda untuk terlibat secara aktif dalam berbagai kegiatan yang kami adakan,
+        Melalui situs web mahasiswa ini, Anda akan menemukan informasi terkini mengenai kegiatan, program, dan berbagai kegiatan yang kami selenggarakan. Kami juga mengundang Anda untuk terlibat secara aktif dalam berbagai kegiatan yang kami adakan,
         serta menyampaikan aspirasi dan gagasan Anda untuk kemajuan bersama.
-        Terima kasih telah mengunjungi situs web Senat FH Undip. Mari bersama-sama menciptakan lingkungan belajar yang inspiratif dan berdaya saing tinggi bagi mahasiswa FH Undip.Viva Legislativa!
+        Terima kasih telah mengunjungi situs web Senat Mahasiswa FH Undip. Mari bersama-sama menciptakan lingkungan belajar yang inspiratif dan berdaya saing tinggi bagi mahasiswa FH Undip.
       </p>
+      <p class="viva">Viva Legislativa!</p>
       <a class="btn" href="{{ url("/selayangpandang#makna-logoparlemen") }}">Makna Logo</a>
     </div>
     <div class="logo-container">

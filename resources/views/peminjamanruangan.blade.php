@@ -78,7 +78,7 @@
         <h2 class="header">TAMPILAN EXCEL</h2>
         <p class="sub-header">Berisikan tentang data ruangan yang meminjam tempat di FH dalam bentuk exel</p>
         <main class="table4" id="customers_table">
-          <a href="https://bit.ly/PeminjamanRuanganFakultasHukumUndip">Link Tampilan Excel</a>
+          <a href="https://docs.google.com/spreadsheets/d/1jjX0cA4iIkdBV3y_Y60R3dXv-lm0s-duTc0dpeIj4JY/edit?usp=sharing">Link Tampilan Excel</a>
         </main>
       </section>
 

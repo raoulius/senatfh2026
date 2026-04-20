@@ -36,15 +36,19 @@
     <div class="modern-wewenang">
       <div class="modern-card">
         <div class="content">
-          <h4>Mengawasi seluruh anggota SM FH Undip dalam menjalankan tugas, fungsi, serta wewenang yang dijalankan</h4>
+          <h4>Melaksanakan pencegahan terhadap segala potensi Melaksanakan pencegahan Serba Ada pelanggaran Kode Etik oleh Senator SM FH Undip 2026</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Memberikan sanksi sesuai dengan peraturan yang berlaku dan memberikan penilaian atas kinerja anggota SM FH Undip</h4>
+          <h4>Melaksanakan pengawasan terhadap perilaku senator SM FH Undip agar tetap sesuai dalam Kode Etik dalam menjalankan fungsi, tugas dan wewenangnya</h4>
         </div>
       </div>
-
+      <div class="modern-card">
+        <div class="content">
+          <h4>Melaksanakan penindakan terhadap pelanggaran Kode Etik oleh Senator SM FH Undip 2026</h4>
+        </div>
+      </div>
     </div>
   </section>
   <section class="container-k">

@@ -46,13 +46,13 @@
       </div>
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/kepengurusan-senatfh2026/pimpinan-inti/Andre Ikdan_Wakil Bidang Aspirasi dan Legislasi.png" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/pimpinan-inti/Kms. M. Fadhlurrohman Fayyadh_Wakil 1 Bidang Anggaran dan Pengawasan_noBG.png" />
         </div>
 
         <div class="content1">
-          <h2>Andre Ikdan</h2>
+          <h2>Kms. M. Fadhlurrohman F.</h2> 
           <p class="deskripsi">
-            Wakil Bidang Aspirasi dan Legislasi</br>Senat FH UNDIP 2026
+            Wakil Ketua Bidang Anggaran dan Pengawasan</br>Senat FH UNDIP 2026
           </p>
         </div>
       </div>
@@ -60,13 +60,13 @@
     <div class="anggota-4-1">
       <div class="card-coba">
         <div class="imgbox">
-          <img class="img-coba" src="img/kepengurusan-senatfh2026/pimpinan-inti/Kms. M. Fadhlurrohman Fayyadh_Wakil 1 Bidang Anggaran dan Pengawasan_noBG.png" />
+          <img class="img-coba" src="img/kepengurusan-senatfh2026/pimpinan-inti/Andre Ikdan_Wakil Bidang Aspirasi dan Legislasi.png" />
         </div>
 
         <div class="content1">
-          <h2>Kms. M. Fadhlurrohman F.</h2>
+          <h2>Andre Ikdan</h2>
           <p class="deskripsi">
-            Wakil 1 Bidang Anggaran dan Pengawasan</br>Senat FH UNDIP 2026
+            Wakil Ketua Bidang Aspirasi dan Legislasi</br>Senat FH UNDIP 2026
           </p>
         </div>
       </div>
@@ -87,3 +87,4 @@
 
   <script src="js-komisi.js"></script>
 @endsection
+

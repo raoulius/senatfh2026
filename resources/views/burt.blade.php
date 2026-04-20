@@ -36,17 +36,12 @@
         <div class="modern-wewenang">
           <div class="modern-card">
             <div class="content">
-              <h4>membantu tugas kesekretariatan dan kebendaharaan dari sekretaris jendral</h4>
+              <h4>Berkoordinasi dengan alat kelengkapan terkait dalam keberjalanan Kebirokrasian SM FH Undip 2026 bersama dengan Sekretaris Jendral.</h4>
             </div>
           </div>
           <div class="modern-card">
             <div class="content">
-              <h4>mengkoordinasi dengan komisi dan badan terkait kesekretariatan dan kebendaharaan melalui sekretaris jendral</h4>
-            </div>
-          </div>
-          <div class="modern-card">
-            <div class="content">
-              <h4>membantu menjalankan kebirokrasian Ormawa FH Undip</h4>
+              <h4>Menjalankan Kebirokrasian Ormawa FH Undip pada Website SM FH Undip bersama dengan BKSAP</h4>
             </div>
           </div>
 

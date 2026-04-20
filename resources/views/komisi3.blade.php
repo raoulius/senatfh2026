@@ -7,7 +7,7 @@
     <div class="container6">
       <div class="slide">
 
-        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/komisi-iii.jpg);">
+        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/KOMISI_III.jpg);">
           <div class="content">
             <div class="name">KOMISI III</div>
             <div class="des">Komisi III adalah komisi yang menangui terkait Bidang Hukum dan Hubungan Publik</div>
@@ -16,7 +16,7 @@
             </a>
           </div>
         </div>
-        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/komisi-iii.jpg);">
+        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/KOMISI_III.jpg);">
           <div class="content">
             <div class="name">KOMISI III</div>
             <div class="des">Komisi III adalah komisi yang menangui terkait Bidang Hukum dan Hubungan Publik</div>
@@ -33,27 +33,32 @@
     <div class="modern-wewenang">
       <div class="modern-card">
         <div class="content">
-          <h4>Melaksanakan rapat koordinasi dengan mitra kerja dalam bidang Hukum dan Hubungan Publik</h4>
+          <h4>Melakukan koordinasi berupa rapat kerja, sosialisasi dengan Mitra Kerja.</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Menampung aspirasi dari mitra kerja dalam bidang Hukum dan Hubungan Publik serta melakukan advokasi kepada pihak terkait</h4>
+          <h4>Melaksanakan 4 (empat) fungsi dari SM FH Undip.</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Melaksanakan fungsi pengawasan dan fungsi legislasi terhadap mitra kerja dalam bidang Hukum dan Hubungan Publik</h4>
+          <h4>Melakukan pengawasan dan penilaian terhadap Mitra Kerja.</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Menjembatani hubungan mitra kerja dalam bidang Hukum dan Hubungan Publik dengan Dekanat</h4>
+          <h4>Menampung aspirasi Mitra Kerja dan mengadvokasikan kepada pihak terkait.</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Melaksanakan Laporan Pertanggungjawaban Terbuka dari mitra kerja</h4>
+          <h4>Menjembatani Mitra Kerja dengan Dekanat FH Undip.</h4>
+        </div>
+      </div>
+      <div class="modern-card">
+        <div class="content">
+          <h4>Melaporkan hasil pertanggungjawaban kepada publik.</h4>
         </div>
       </div>
     </div>

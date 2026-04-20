@@ -7,19 +7,19 @@
     <div class="container6">
       <div class="slide">
 
-        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/komisi-ii.jpg);">
+        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/KOMISI_II.jpg);">
           <div class="content">
             <div class="name">KOMISI II</div>
-            <div class="des">Komisi II adalah komisi yang menaungi terkait Bidang Minat, Bakat, Kaderisasi dan Kerohanian</div>
+            <div class="des">Komisi II adalah komisi yang menaungi Bidang Minat, Bakat, Kaderisasi dan Kerohanian</div>
             <a href="http://127.0.0.1:8000/komisi1" target="_blank">
               <button>Selengkapnya</button>
             </a>
           </div>
         </div>
-        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/komisi-ii.jpg);">
+        <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/KOMISI_II.jpg);">
           <div class="content">
             <div class="name">KOMISI II</div>
-            <div class="des">Komisi II adalah komisi yang menaungi terkait Bidang Minat, Bakat, Kaderisasi dan Kerohanian</div>
+            <div class="des">Komisi II adalah komisi yang menaungi Bidang Minat, Bakat, Kaderisasi dan Kerohanian</div>
           </div>
         </div>
       </div>
@@ -33,27 +33,32 @@
     <div class="modern-wewenang">
       <div class="modern-card">
         <div class="content">
-          <h4>Melaksanakan rapat kerja dengan mitra kerja dalam bidang Minat Bakat, Kaderisasi, dan Kerohanian</h4>
+          <h4>Melakukan koordinasi dengan melakukan Rapat kerja serta Sosialisasi dengan Mitra Kerja.</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Menampung Aspirasi Dari Mitra Kerja Dalam Bidang Minat Bakat, Kaderisasi, dan Kerohanian Serta Melakukan Advokasi Kepada Pihak Terkait</h4>
+          <h4>Melaksanakan 4 (empat) fungsi dari SM FH Undip.</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Melaksanakan Fungsi Pengawasan, dan Legislasi terhadap Mitra Kerja Dalam Bidang Minat Bakat, Kaderisasi, dan Kerohanian</h4>
+          <h4>Melakukan pengawasan dan penilaian terhadap Program Kerja dan pendelgasian yang dilakukan Mitra Kerja.</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Menjembatani Hubungan Mitra Kerja Dalam Bidang Minat Bakat dan Kaderisasi Dengan Dekanat</h4>
+          <h4>Menyerap dan menjaring aspirasi Mitra Kerja dan mengadvokasikan kepada pihak terkait.</h4>
         </div>
       </div>
-      <div class="modern-card-bawah">
-        <div class="content-bawah">
-          <h4>Melaksanakan Laporan Pertanggungjawaban Terbuka Dari Mitra Kerja</h4>
+      <div class="modern-card">
+        <div class="content">
+          <h4>Menjembatani Mitra Kerja dengan Dekanat FH Undip.</h4>
+        </div>
+      </div>
+      <div class="modern-card">
+        <div class="content">
+          <h4>Melaporkan hasil pertanggungjawaban kepada publik.</h4>
         </div>
       </div>
     </div>

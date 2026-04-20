@@ -35,27 +35,32 @@
     <div class="modern-wewenang">
       <div class="modern-card">
         <div class="content">
-          <h4>Melaksanakan rapat koordinasi dengan mitra kerja dalam Bidang Advokasi, Akademik, Sarana, dan Prasarana</h4>
+          <h4>Melakukan koordinasi berupa rapat kerja, sosialisasi dengan Mitra Kerja.</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Menampung aspirasi dari mitra kerja dalam Bidang Advokasi, Akademik, Sarana, dan Prasarana serta melakukan advokasi kepada pihak terkait</h4>
+          <h4>Melaksanakan 4 (empat) fungsi dari SM FH Undip.</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Melaksanakan fungsi pengawasan dan fungsi legislasi terhadap mitra kerja dalam Bidang Advokasi, Akademik, Sarana, dan Prasarana</h4>
+          <h4>Melakukan pengawasan dan penilaian terhadap Mitra Kerja.</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Menjembatani hubungan mitra kerja dalam Bidang Advokasi, Akademik, Sarana, dan Prasarana dengan Dekanat</h4>
+          <h4>Menjaring, mengadvokasikan, dan menginformasikan hasil advokasi terhadap Mitra Kerja dan mahasiswa</h4>
         </div>
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Melaksanakan Laporan Pertanggungjawaban Terbuka dari mitra kerja</h4>
+          <h4>Melakukan koordinasi dengan alat kelengkapan lain mengenai aspirasi Mitra Kerja alat kelengkapan terkait</h4>
+        </div>
+      </div>
+      <div class="modern-card">
+        <div class="content">
+          <h4>Melaporkan hasil pertanggungjawaban kepada publik.</h4>
         </div>
       </div>
     </div>
@@ -115,7 +120,7 @@
     <div class="carousel">
       <div class="list">
         <div class="item">
-          <img src="img/mitra-kerja4/bemadvo.png">
+          <img src="img/mitra-kerja4/bemkapro.png">
           <div class="introduce">
             <div class="title">BEM FH</div>
             <div class="topic">ADVO KESMA</div>
@@ -136,7 +141,7 @@
         </div>
 
         <div class="item">
-          <img src="img/mitra-kerja4/bemkapro.png">
+          <img src="img/mitra-kerja4/bemadvo.png">
           <div class="introduce">
             <div class="title">BEM FH</div>
             <div class="topic">KAPRO</div>
