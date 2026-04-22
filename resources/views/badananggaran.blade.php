@@ -33,7 +33,7 @@
 
   <section class="container">
     <div class="section-header6">
-      <h2 class="modern-header">Tugas Pokok BADAN ANGGARAN</h2>
+      <h2 class="modern-header">Tugas Pokok Badan Anggaran</h2>
     </div>
     <div class="modern-wewenang">
       <div class="modern-card">

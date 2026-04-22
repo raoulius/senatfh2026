@@ -40,7 +40,7 @@
         <div class="content1">
           <h2>Shofi Jihan Nabila</h2>
           <p class="deskripsi">
-            Ketua Senat</br>FH UNDIP 2026
+            Ketua Senat</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
@@ -52,7 +52,7 @@
         <div class="content1">
           <h2>Kms. M. Fadhlurrohman F.</h2> 
           <p class="deskripsi">
-            Wakil Ketua Bidang Anggaran dan Pengawasan</br>Senat FH UNDIP 2026
+            Wakil Ketua Bidang Anggaran dan Pengawasan</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
@@ -66,7 +66,7 @@
         <div class="content1">
           <h2>Andre Ikdan</h2>
           <p class="deskripsi">
-            Wakil Ketua Bidang Aspirasi dan Legislasi</br>Senat FH UNDIP 2026
+            Wakil Ketua Bidang Aspirasi dan Legislasi</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>
@@ -77,7 +77,7 @@
         <div class="content1">
           <h2>Rendra Haksatriya Pradhana</h2>
           <p class="deskripsi">
-            Sekretaris Jenderal</br>Senat FH UNDIP 2026
+            Sekretaris Jenderal</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>

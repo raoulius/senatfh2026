@@ -10,7 +10,7 @@
         <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/KOMISI_II.jpg);">
           <div class="content">
             <div class="name">KOMISI II</div>
-            <div class="des">Komisi II adalah komisi yang menaungi Bidang Minat, Bakat, Kaderisasi dan Kerohanian</div>
+            <div class="des">Komisi II adalah komisi yang menaungi Bidang Minat Bakat, Kaderisasi dan Kerohanian.</div>
             <a href="http://127.0.0.1:8000/komisi1" target="_blank">
               <button>Selengkapnya</button>
             </a>
@@ -19,7 +19,7 @@
         <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/KOMISI_II.jpg);">
           <div class="content">
             <div class="name">KOMISI II</div>
-            <div class="des">Komisi II adalah komisi yang menaungi Bidang Minat, Bakat, Kaderisasi dan Kerohanian</div>
+            <div class="des">Komisi II adalah komisi yang menaungi Bidang Minat Bakat, Kaderisasi dan Kerohanian.</div>
           </div>
         </div>
       </div>
@@ -28,7 +28,7 @@
 
   <section class="container">
     <div class="section-header6">
-      <h2 class="modern-header">Tugas Pokok dan Komisi II</h2>
+      <h2 class="modern-header">Tugas Pokok Komisi II</h2>
     </div>
     <div class="modern-wewenang">
       <div class="modern-card">
@@ -237,7 +237,7 @@
             <div class="title">BEM FH</div>
             <div class="topic">PSDM</div>
             <div class="des">
-              Bidang PSDM BEM FH Undip adalah garda terdepan kaderisasi dalam hal pembentukan, pembinaan, dan pengkaryaan mahasiswa.
+              Bidang Pengembangan Sumber Daya Mahasiswa (PSDM) BEM FH Undip adalah garda terdepan kaderisasi dalam hal pembentukan, pembinaan, dan pengkaryaan mahasiswa.
             </div>
             <button class="seeMore">Selengkapnya</button>
           </div>
@@ -324,7 +324,7 @@
             <div class="title">UKM-F</div>
             <div class="topic">Bela Diri</div>
             <div class="des">
-              UKM-F Bela Diri FH Undip adalah satu-satunya wadah untuk mahasiswa Fakultas Hukum Universitas Diponegoro yang merupakan sebuah organisasi ini berfokus terhadap pengembangan kemampuan bela diri mahasiswa di ruang lingkup
+              UKM-F Bela Diri adalah satu-satunya wadah untuk mahasiswa Fakultas Hukum Universitas Diponegoro yang merupakan sebuah organisasi ini berfokus terhadap pengembangan kemampuan bela diri dan karakter mahasiswa di ruang lingkup
               Fakultas Hukum Universitas Diponegoro.
             </div>
             <button class="seeMore">Selengkapnya</button>

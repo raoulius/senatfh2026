@@ -31,7 +31,7 @@
 
   <section class="container">
     <div class="section-header6">
-      <h2 class="modern-header">Tugas Pokok dan BADAN KEHORMATAN</h2>
+      <h2 class="modern-header">Tugas Pokok Badan Kehormatan </h2>
     </div>
     <div class="modern-wewenang">
       <div class="modern-card">
@@ -142,7 +142,7 @@
           <img class="img-coba" src="img/kepengurusan-senatfh2026/badan-kehormatan/M.Naufal Al Fayyadh.png" />
         </div>
         <div class="content1">
-          <h2>M.Naufal Al Fayyadh</h2>
+          <h2>Muhammad Naufal Al Fayyadh</h2>
           <p class="deskripsi">
             Senator Anggota</br>SM FH UNDIP 2026
           </p>

@@ -210,7 +210,7 @@
             <button class="seeMore">Selengkapnya</button>
           </div>
           <div class="detail">
-            <div class="title">Pseudo</div>
+            <div class="title">KRD</div>
             <div class="des">
               Kelompok Riset dan Debat Fakultas Hukum Universitas Diponegoro (KRD FH UNDIP) adalah unit kegiatan mahasiswa yang berorientasi pada pengembangan keilmuan, kompetisi, dan dinamika organisasi. KRD FH UNDIP berdiri sejak tahun 2009
               dengan nama awal “Komunitas Riset dan Debat”. Keberjalanan KRD terus berorientasi dan memfokuskan dirinya demi menciptakan intelektual muda yang mampu memberikan dampak bagi masyarakat secara keseluruhan. Eksistensi KRD turut
@@ -362,7 +362,7 @@
           <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-i/Stevany Mitra Valencia Saragih_Staf Ahli Komisi 1_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Stevany Mitra Valencia Saragih</h2>
+          <h2>Stevany Milea Valencia Saragih</h2>
           <p class="deskripsi">
             Staff Ahli</br>SM FH UNDIP 2026
           </p>

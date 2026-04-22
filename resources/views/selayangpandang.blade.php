@@ -110,8 +110,9 @@
             </div>
             <h1 class="custom-header1">MAKNA LOGO</h1>
             <p class="custom-sub1-header">
+              Dalam bahasa Sanskerta, ‘cakra’ berarti ‘roda, lingkaran, atau pusat perputaran.’ Dalam konteks filosofis, ‘cakra’ dipahami sebagai pusat energi atau kesadaran dalam diri manusia yang menjadi titik pemusatan dan penyaluran potensi fisik, intelektual, emosional, dan spiritual. Masing-masing cakra memiliki kedudukan dan fungsi tersendiri, tetapi saling terhubung, tidak berdiri secara terpisah, serta beririsan dalam membentuk kesatuan kepribadian dan kesadaran manusia.
               ‘Adhigana’ berasal dari kata Sanskerta ‘adhi’ (unggul, tinggi, melampaui) dan ‘gana’ (kelompok, himpunan). Secara konseptual, ‘Adhigana’ dimaknai sebagai sekumpulan individu unggul yang memiliki ketangguhan, daya juang tinggi,
-              dan semangat pantang menyerah, yang bekerja secara kolektif untuk mencapai hasil terbaik serta siap menghadapi dan bertanggung jawab atas setiap konsekuensi dari perjuangannya. Dalam bahasa Sanskerta, ‘cakra’ berarti ‘roda, lingkaran, atau pusat perputaran.’ Dalam konteks filosofis, ‘cakra’ dipahami sebagai pusat energi atau kesadaran dalam diri manusia yang menjadi titik pemusatan dan penyaluran potensi fisik, intelektual, emosional, dan spiritual. Masing-masing cakra memiliki kedudukan dan fungsi tersendiri, tetapi saling terhubung, tidak berdiri secara terpisah, serta beririsan dalam membentuk kesatuan kepribadian dan kesadaran manusia.
+              dan semangat pantang menyerah, yang bekerja secara kolektif untuk mencapai hasil terbaik serta siap menghadapi dan bertanggung jawab atas setiap konsekuensi dari perjuangannya.
               <br><br>
               Nama parlemen dari SM FH Undip Tahun 2026, yakni Cakra Adhigana membawa makna bahwa SM FH Undip Tahun 2026 diharapkan dapat menjadi pusat dari sekelompok individu yang tangguh dengan daya juang tinggi, disiplin, pantang
               menyerah, dan sinergis untuk mencapai tujuan bersama secara optimal. Setiap anggota tidak berdiri sendiri, melainkan saling beririsan, saling menguatkan, dan bertanggung jawab antara satu sama lain dalam menjalankan fungsi,
@@ -183,7 +184,7 @@
       <div class="card">
         <div class="warna1"></div>
         <div class="content">
-          <h4>BIRU</h4>
+          <h4>BIRU TOSCA</h4>
           <h5>Warna biru tosca melambangkan inovasi dan optimisme. Hal tersebut membawa harapan agar setiap fungsionaris SM FH Undip Tahun 2026 mampu mengambil langkah yang inovatif bersamaan dengan sikap optimis–memiliki keyakinan yang besar
             bahwa langkah yang diambil dapat terwujud. </h5>
         </div>

@@ -28,7 +28,7 @@
 
   <section class="container">
     <div class="section-header6">
-      <h2 class="modern-header">Tugas Pokok dan Komisi III</h2>
+      <h2 class="modern-header">Tugas Pokok Komisi III</h2>
     </div>
     <div class="modern-wewenang">
       <div class="modern-card">
@@ -120,7 +120,7 @@
         <div class="item">
           <img src="img/mitra-kerja3/gema keadilan.png">
           <div class="introduce">
-            <div class="title">LPM GK</div>
+            <div class="title">UKM-F</div>
             <div class="topic">Gema Keadilan</div>
             <div class="des">
               Lembaga Pers Mahasiswa Gema Keadilan (LPM GK) FH Undip adalah UKM-F tertua yang berfungsi sebagai media informasi, tempat menyampaikan aspirasi, dan pengembangan skill mahasiswa. Dengan slogan "aktif, dinamis, kritis," LPM ini menjadi wadah untuk
@@ -186,14 +186,14 @@
           <img src="img/mitra-kerja3/pp.png">
           <div class="introduce">
             <div class="title">BEM FH</div>
-            <div class="topic">Pemberdaya Perempuan</div>
+            <div class="topic">Pemberdayaan Perempuan</div>
             <div class="des">
               Bidang Pemberdayaan Perempuan merupakan bidang yang berfokus melakukan upaya pemerataan akses dan kontrol atas ekonomi, politik, sosial, dan budaya pada perempuan dan mahasiswa dengan tujuan tercapainya kesetaraan gender.
             </div>
             <button class="seeMore">Selengkapnya</button>
           </div>
           <div class="detail">
-            <div class="title">Pemberdaya Perempuan</div>
+            <div class="title">Pemberdayaan Perempuan</div>
             <div class="des">
               Bidang Pemberdayaan Perempuan merupakan bidang yang berfokus melakukan upaya pemerataan akses dan kontrol atas ekonomi, politik, sosial, dan budaya pada perempuan dan mahasiswa dengan tujuan tercapainya kesetaraan gender.
               Hakikatnya, tidak hanya perempuan saja yang perlu untuk diberdayakan tetapi juga lelaki terkhususnya seluruh mahasiswa FH

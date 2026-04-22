@@ -10,7 +10,7 @@
         <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/komisi-iv.jpg);">
           <div class="content">
             <div class="name">KOMISI IV</div>
-            <div class="des">Komisi IV adalah komisi yang menaungi terkait Bidang Advokasi, Akademik, Sarana, dan Prasarana. Komisi empat berkoordinasi dan bertanggung jawab kepada mitra kerjanya, yaitu : BEM Bidang KAPRO dan ADVOKESMA
+            <div class="des">Komisi IV adalah komisi yang menaungi Bidang Advokasi, Akademik, Sarana, dan Prasarana. Komisi empat berkoordinasi dan bertanggung jawab kepada mitra kerjanya, yaitu : BEM Bidang KAPRO dan ADVOKESMA
             </div>
             <a href="http://127.0.0.1:8000/komisi1" target="_blank">
               <button>Selengkapnya</button>
@@ -20,7 +20,7 @@
         <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/komisi-iv.jpg);">
           <div class="content">
             <div class="name">KOMISI IV</div>
-            <div class="des">Komisi IV adalah komisi yang menaungi terkait Bidang Advokasi, Akademik, Sarana, dan Prasarana. Komisi empat berkoordinasi dan bertanggung jawab kepada mitra kerjanya, yaitu : BEM Bidang KAPRO dan ADVOKESMA
+            <div class="des">Komisi IV adalah komisi yang menaungi Bidang Advokasi, Akademik, Sarana, dan Prasarana. Komisi empat berkoordinasi dan bertanggung jawab kepada mitra kerjanya, yaitu : BEM Bidang KAPRO dan ADVOKESMA
             </div>
           </div>
         </div>
@@ -30,7 +30,7 @@
 
   <section class="container">
     <div class="section-header6">
-      <h2 class="modern-header">Tugas Pokok dan Komisi IV</h2>
+      <h2 class="modern-header">Tugas Pokok Komisi IV</h2>
     </div>
     <div class="modern-wewenang">
       <div class="modern-card">
@@ -123,14 +123,14 @@
           <img src="img/mitra-kerja4/bemkapro.png">
           <div class="introduce">
             <div class="title">BEM FH</div>
-            <div class="topic">ADVO KESMA</div>
+            <div class="topic">ADVOKESMA</div>
             <div class="des">
               Bidang Advokesma BEM FH Undip Merupakan salah satu bidang yang bertujuan untuk mengawal aspirasi atau keterbutuhan mahasiswa yang berkaitan dengan Uang Kuliah Tunggal (UKT), Beasiswa, dan Pembiayaan perkuliahan lainnya.
             </div>
             <button class="seeMore">Selengkapnya </button>
           </div>
           <div class="detail">
-            <div class="title">ADVO KESMA</div>
+            <div class="title">ADVOKESMA</div>
             <div class="des">
               Bidang Advokesma BEM FH Undip Merupakan salah satu bidang yang bertujuan untuk mengawal aspirasi atau keterbutuhan mahasiswa yang berkaitan dengan Uang Kuliah Tunggal (UKT), Beasiswa, dan Pembiayaan perkuliahan lainnya.
             </div>
@@ -189,7 +189,7 @@
           <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-iv/Naufal Al Fayyadh_Senator Anggota_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Naufal Al Fayyadh</h2>
+          <h2>Muhammad Naufal Al Fayyadh</h2>
           <p class="deskripsi">
             Senator Anggota</br>SM FH UNDIP 2026
           </p>
@@ -213,7 +213,7 @@
           <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-iv/Ridho Athif Antariksa_Senator Anggota_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Ridho Athif Antariksa</h2>
+          <h2>Muhammad Ridho Atif Antariksa</h2>
           <p class="deskripsi">
             Senator Anggota</br>SM FH UNDIP 2026
           </p>
