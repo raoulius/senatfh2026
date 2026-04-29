@@ -231,7 +231,7 @@
         <div class="slide-item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/komisi-ii.jpg);">
           <div class="content9">
             <div class="name">KOMISI II</div>
-            <div class="des">Komisi II SM FH Undip merupakan  alat kelengkapan SM FH Undip yang bergerak di bidang minat bakat, kaderisasi dan kerohanian. </div>
+            <div class="des">Komisi II SM FH Undip merupakan  alat kelengkapan SM FH Undip yang bergerak di bidang Minat, Bakat, Kaderisasi dan Kerohanian. </div>
             <a href="{{ url("/tentang-komisi-ii") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
@@ -266,7 +266,7 @@
         <div class="slide-item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/badan-anggaran.jpg);">
           <div class="content9">
             <div class="name">BADAN ANGGARAN</div>
-            <div class="des">Badan Anggaran merupakan alat kelengkapan SM FH Undip yang bertujuan dan bertanggung jawab atas penetapan dan pengawasan terhadap anggaran yang dimiliki dan dijalankan oleh Mitra Kerja SM FH Undip. </div>
+            <div class="des">Badan Anggaran merupakan alat kelengkapan SM FH Undip yang bertujuan dan bertanggung jawab atas penetapan dan pengawasan terhadap anggaran yang dimiliki dan dijalankan oleh Mitra Kerja SM FH Undip.</div>
             <a href="{{ url("/tentang-badan-anggaran") }}"><button>Selengkapnya</button></a>
           </div>
         </div>
@@ -280,7 +280,7 @@
         <div class="slide-item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/bksap.jpg);">
           <div class="content9">
             <div class="name">BKSAP</div>
-            <div class="des">Badan Kerja Sama Antar Parlemen terdiri dari Biro humas, Biro infografis, Biro Videografis</div>
+            <div class="des">Badan Kerja Sama Antar Parlemen Merupakan alat kelengkapan SM FH Undip yang bertugas mengelola komunikasi kelembagaan, menjalin, membina, dan meningkatkan hubungan silaturahmi antara SM FH Undip Tahun 2026 dengan organisasi lainnya, baik di lingkungan Universitas Diponegoro maupun diluar lingkungan Universitas Diponegoro. Badan Kerja Sama Antar Parlemen terdiri dari Biro Humas, Biro Desain, dan Biro Media</div>
             <a href="{{ url("/tentang-bksap") }}"><button>Selengkapnya</button></a>
           </div>
         </div>

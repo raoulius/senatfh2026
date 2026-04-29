@@ -168,7 +168,7 @@
             <button class="seeMore">Selengkapnya</button>
           </div>
           <div class="detail">
-            <div class="title">Pseudo</div>
+            <div class="title">DIMCA</div>
             <div class="des">
               Asosiasi Kompetisi Moot Internasional Diponegoro (disebut sebagai "DIMCA") adalah organisasi yang didirikan di Fakultas Hukum, Universitas Diponegoro. DIMCA diciptakan sebagai tempat belajar oleh mahasiswa, untuk mahasiswa, guna membantu dan lebih memperkuat minat dalam hukum internasional, dengan mengembangkan penelitian hukum dan berpartisipasi dalam kompetisi moot internasional di seluruh dunia.
             </div>

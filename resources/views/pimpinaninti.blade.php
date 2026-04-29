@@ -40,7 +40,7 @@
         <div class="content1">
           <h2>Shofi Jihan Nabila</h2>
           <p class="deskripsi">
-            Ketua Senat</br>SM FH UNDIP 2026
+            Ketua</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>

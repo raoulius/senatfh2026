@@ -43,7 +43,7 @@
       </div>
       <div class="modern-card">
         <div class="content">
-          <h4>Melakukan pengawasan dan penilaian terhadap Program Kerja dan pendelgasian yang dilakukan Mitra Kerja.</h4>
+          <h4>Melakukan pengawasan dan penilaian terhadap Program Kerja dan pendelegasian yang dilakukan Mitra Kerja.</h4>
         </div>
       </div>
       <div class="modern-card">
@@ -170,7 +170,7 @@
             <div class="title">UKM-F</div>
             <div class="topic">KKI</div>
             <div class="des">
-              KKI FH Undip adalah Unit Kegiatan Mahasiswa Fakultas (UKM-F) yang berperan sebagai Lembaga Dakwah Fakultas (LDF) di Fakultas Hukum Universitas Diponegoro.
+              Koordinator Kegiatan Islam (KKI) FH Undip adalah Unit Kegiatan Mahasiswa Fakultas (UKM-F) yang berperan sebagai Lembaga Dakwah Fakultas (LDF) di Fakultas Hukum Universitas Diponegoro.
             </div>
             <button class="seeMore">Selengkapnya</button>
           </div>
@@ -213,7 +213,7 @@
             <div class="title">UKM-F</div>
             <div class="topic">PMK</div>
             <div class="des">
-              Persekutuan Mahasiswa Kristen Fakultas Hukum Universitas Diponegoro (PMK FH Undip) adalah Persekutuan Mahasiswa Kristen Fakultas Hukum Universitas Diponegoro, sebuah komunitas yang menjadi wadah bagi mahasiswa Kristen untuk bertumbuh dalam iman, mempererat kebersamaan, serta mengaplikasikan
+              Persekutuan Mahasiswa Kristen Fakultas Hukum Universitas Diponegoro (PMK FH Undip) adalah sebuah komunitas yang menjadi wadah bagi mahasiswa Kristen untuk bertumbuh dalam iman, mempererat kebersamaan, serta mengaplikasikan
               nilai-nilai Kristiani dalam kehidupan akademik dan sosial.
             </div>
             <button class="seeMore">Selengkapnya</button>
@@ -259,7 +259,7 @@
             <div class="title">UKM-F</div>
             <div class="topic">PRMK</div>
             <div class="des">
-              PRMK FH Undip adalah UKM yang yang berdiri di Universitas Diponegoro. PRMK FH UNDIP sendiri merupakan UKM yang mewadahi pengembangan minat dan bakat di bidang
+              Pelayanan Rohani Mahasiswa Katolik (PRMK) FH Undip adalah UKM yang berdiri di Universitas Diponegoro. PRMK FH UNDIP sendiri merupakan UKM yang mewadahi pengembangan minat dan bakat di bidang
               kerohanian katolik.
             </div>
             <button class="seeMore">Selengkapnya</button>
@@ -324,7 +324,7 @@
             <div class="title">UKM-F</div>
             <div class="topic">Bela Diri</div>
             <div class="des">
-              UKM-F Bela Diri adalah satu-satunya wadah untuk mahasiswa Fakultas Hukum Universitas Diponegoro yang merupakan sebuah organisasi ini berfokus terhadap pengembangan kemampuan bela diri dan karakter mahasiswa di ruang lingkup
+              UKM-F Bela Diri adalah satu-satunya wadah untuk mahasiswa Fakultas Hukum Universitas Diponegoro yang berfokus terhadap pengembangan kemampuan bela diri mahasiswa di ruang lingkup
               Fakultas Hukum Universitas Diponegoro.
             </div>
             <button class="seeMore">Selengkapnya</button>
@@ -332,7 +332,7 @@
           <div class="detail">
             <div class="title">Bela Diri</div>
             <div class="des">
-              UKM-F Bela Diri adalah satu-satunya wadah untuk mahasiswa Fakultas Hukum Universitas Diponegoro yang merupakan sebuah organisasi ini berfokus terhadap pengembangan kemampuan bela diri dan karakter mahasiswa di ruang lingkup
+              UKM-F Bela Diri adalah satu-satunya wadah untuk mahasiswa Fakultas Hukum Universitas Diponegoro yang berfokus terhadap pengembangan kemampuan bela diri mahasiswa di ruang lingkup
               Fakultas Hukum Universitas Diponegoro. UKM-F Bela Diri terdiri dari 4 Cabang Olahraga yakni : Karate, ⁠Taekwondo, ⁠KickBoxing dan Silat.
               Dalam keberjalanan UKM-F ini optimisme, konsistensi dan kerja keras para anggota UKM-F Bela Diri serta dukungan dari pihak Dekanat Fakultas Hukum Universitas Diponegoro telah membuat UKM-F Bela Diri berhasil mencetak banyak
               sekali delegasi-delegasi pertandingan di kancah tingkat Nasional sampai Internasional.
@@ -355,7 +355,7 @@
           <div class="detail">
             <div class="title">PSM SDG</div>
             <div class="des">
-              Sejak 2001, PSM SDG telah aktif menyelenggarakan festival paduan suara bergengsi yaitu Satya Dharma Gita Choir Festival dan telah berlangsung sebanyak sembilan kali. SDGCF mengadakan edisi kesepuluh dengan skala
+              Paduan Suara Mahasiswa Satya Dharma Gita (PSM SDG) FH Undip adalah UKM di bidang seni vokal yang berfokus pada pengembangan musikalitas anggota. SDGCF mengadakan edisi kesepuluh dengan skala
               internasional, yaitu The 10th Satya Dharma Gita International Choir Festival, menunjukkan komitmen PSM SDG untuk terus memperluas jangkauan dan meningkatkan kualitas acara.
               Tidak hanya berkomitmen pada kompetisi, tetapi juga pada pembangunan karakter anggota PSM SDG melalui disiplin, kreativitas dan kerja sama tim. Sebagai salah satu paduan suara terkemuka di Indonesia, PSM SDG bertekad untuk
               menjadi inspirasi bagi generasi muda dalam berkarya dan akan terus melangkah maju dengan semangat inovasi dan dedikasi tinggi.

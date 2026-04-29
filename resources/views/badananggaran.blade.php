@@ -10,8 +10,7 @@
         <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/badan-anggaran.jpg);">
           <div class="content">
             <div class="name">Badan Anggaran</div>
-            <div class="des">Badan anggaran adalah badan yang dibentuk oleh SM FH Undip dan merupakan alat kelengkapan SM FH Undip yang bersifat tetap, badan ini memiliki tugas serta fungsi yang tidak jauh daripada fungsi anggaran yang
-              dimiliki SM FH Undip</div>
+            <div class="des">Badan Anggaran merupakan alat kelengkapan SM FH Undip yang bertujuan dan bertanggung jawab atas penetapan dan pengawasan terhadap anggaran yang dimiliki dan dijalankan oleh Mitra Kerja SM FH Undip.</div>
             <a href="http://127.0.0.1:8000/komisi1" target="_blank">
               <button>Selengkapnya</button>
             </a>

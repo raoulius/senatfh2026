@@ -10,7 +10,7 @@
         <div class="item" style="background-image: url(/img/kepengurusan-senatfh2026/foto-bersama/komisi-iv.jpg);">
           <div class="content">
             <div class="name">KOMISI IV</div>
-            <div class="des">Komisi IV adalah komisi yang menaungi Bidang Advokasi, Akademik, Sarana, dan Prasarana. Komisi empat berkoordinasi dan bertanggung jawab kepada mitra kerjanya, yaitu : BEM Bidang KAPRO dan ADVOKESMA
+            <div class="des">Komisi IV adalah komisi yang menaungi Bidang Advokasi, Akademik, Sarana, dan Prasarana. Komisi empat berkoordinasi dan bertanggung jawab kepada mitra kerjanya, yaitu : BEM bidang KAPRO dan ADVOKESMA
             </div>
             <a href="http://127.0.0.1:8000/komisi1" target="_blank">
               <button>Selengkapnya</button>
@@ -144,7 +144,7 @@
             <div class="title">BEM FH</div>
             <div class="topic">KAPRO</div>
             <div class="des">
-              Bidang Karier dan Profesi (KAPRO) BEM FH Undip adalah salah satu bidang yang bertujuan untuk membantu mahasiswa mempersiapkan karir dengan menyediakan informasi lowongan kerja dan magang di bidang hukum, serta mendukung pengembangan kemampuan mahasiswa untuk menunjang karir
+              Bidang Karier dan Profesi (KAPRO) BEM FH Undip adalah salah satu bidang yang bertujuan untuk membantu mahasiswa mempersiapkan karier dengan menyediakan informasi lowongan kerja dan magang di bidang hukum, serta mendukung pengembangan kemampuan mahasiswa untuk menunjang karier
               mereka di masa depan.
             </div>
             <button class="seeMore">Selengkapnya </button>
@@ -152,7 +152,7 @@
           <div class="detail">
             <div class="title">KAPRO</div>
             <div class="des">
-              Bidang Karier dan Profesi BEM FH Undip tahun hadir untuk membersamai dan membantu mahasiswa dalam mempersiapkan karir mereka di masa depan, baik dari sisi kemampuan mahasiswa yaitu Kepandaian maupun luar diri mahasiswa
+              Bidang Karier dan Profesi BEM FH Undip tahun hadir untuk membersamai dan membantu mahasiswa dalam mempersiapkan karier mereka di masa depan, baik dari sisi kemampuan mahasiswa yaitu Kepandaian maupun luar diri mahasiswa
               yaitu adanya kuota lowongan pekerjaan yang tersedia. Bidang karier dan profesi pun mengawal serta melayani mahasiswa FH Undip terkait segala hal yang bisa menunjang karier mahasiswa fakultas hukum dengan membuka jalan informasi
               terkait lowongan kerja dan magang di ranah hukum dengan harapan bahwa segala upaya yang dilakukan dapat mempermudah mahasiswa FH Undip dalam mengasah diri yang beresonansi dengan minat dan jurusannya.
             </div>
@@ -298,7 +298,7 @@
           <img class="img-coba" src="img/kepengurusan-senatfh2026/komisi-iv/Khansa_ Yovita Noviyana_Staf Ahli_noBG.png" />
         </div>
         <div class="content1">
-          <h2>Khansa Yovita Noviyana</h2>
+          <h2>Khansa' Yovita Noviyana</h2>
           <p class="deskripsi">
             Staff Ahli</br>SM FH UNDIP 2026
           </p>

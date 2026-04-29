@@ -125,7 +125,7 @@
         <div class="content1">
           <h2>Nesa Safitri Zahra</h2>
           <p class="deskripsi">
-            Ketua BKSAP</br>FH UNDIP 2026
+            Ketua BKSAP</br>SM FH UNDIP 2026
           </p>
         </div>
       </div>

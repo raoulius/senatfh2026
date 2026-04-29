@@ -121,7 +121,7 @@
           <img src="img/mitra-kerja3/gema keadilan.png">
           <div class="introduce">
             <div class="title">UKM-F</div>
-            <div class="topic">Gema Keadilan</div>
+            <div class="topic">LPM GK</div>
             <div class="des">
               Lembaga Pers Mahasiswa Gema Keadilan (LPM GK) FH Undip adalah UKM-F tertua yang berfungsi sebagai media informasi, tempat menyampaikan aspirasi, dan pengembangan skill mahasiswa. Dengan slogan "aktif, dinamis, kritis," LPM ini menjadi wadah untuk
               menyalurkan ide kreatif dan merespon permasalahan di masyarakat, terutama di lingkungan fakultas dan universitas.
@@ -269,7 +269,7 @@
             <div class="title">BEM FH</div>
             <div class="topic">IPM</div>
             <div class="des">
-              Inspektorat Penjamin Mutu (IPM) BEM FH Undip bertanggung jawab memastikan BEM FH Undip berjalan sesuai nilai dan budaya dalam Grand Design Organization Juang Asa.
+              Inspektorat Penjamin Mutu (IPM) BEM FH Undip bertanggung jawab memastikan BEM FH Undip berjalan sesuai nilai dan budaya dalam Grand Design Organization pada periode tertentu.
             </div>
             <button class="seeMore">Selengkapnya</button>
           </div>
